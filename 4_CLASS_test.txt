@@ -1,0 +1,670 @@
+/content/dataset/OID/Dataset/train/overloaded/7(6).jpg 16,4,237,167,0
+/content/dataset/OID/Dataset/train/overloaded/1(1).jpg 47,13,264,165,0
+/content/dataset/OID/Dataset/train/overloaded/7(1).jpg 12,15,180,212,0
+/content/dataset/OID/Dataset/train/overloaded/7(13).jpg 12,12,194,211,0
+/content/dataset/OID/Dataset/train/overloaded/7(5).jpg 89,4,200,166,0
+/content/dataset/OID/Dataset/train/overloaded/7(7).jpg 105,37,210,153,0
+/content/dataset/OID/Dataset/train/overloaded/1(11).jpg 107,2,256,174,0
+/content/dataset/OID/Dataset/train/overloaded/7(12).jpg 42,23,220,146,0
+/content/dataset/OID/Dataset/train/overloaded/1580878544240.jpeg 10,6,197,146,0
+/content/dataset/OID/Dataset/train/overloaded/7(9).jpg 5,43,257,145,0
+/content/dataset/OID/Dataset/train/overloaded/7(10).jpg 12,4,252,185,0
+/content/dataset/OID/Dataset/train/overloaded/1(5).jpg 13,5,253,187,0
+/content/dataset/OID/Dataset/train/overloaded/1(13).jpg 4,1,258,167,0
+/content/dataset/OID/Dataset/train/overloaded/7(8).jpg 58,13,248,151,0
+/content/dataset/OID/Dataset/train/overloaded/7(15).jpg 14,23,165,160,0
+/content/dataset/OID/Dataset/train/overloaded/1(10).jpg 63,31,218,173,0
+/content/dataset/OID/Dataset/train/overloaded/1(12).jpg 84,26,187,140,0
+/content/dataset/OID/Dataset/train/overloaded/1(6).jpg 66,28,221,173,0
+/content/dataset/OID/Dataset/train/overloaded/7(11).jpg 106,37,202,152,0
+/content/dataset/OID/Dataset/train/overloaded/7(16).jpg 110,26,229,151,0
+/content/dataset/OID/Dataset/train/overloaded/7(14).jpg 64,15,195,144,0
+/content/dataset/OID/Dataset/train/overloaded/1(7).jpg 45,7,200,168,0
+/content/dataset/OID/Dataset/train/overloaded/1(4).jpg 27,56,239,179,0
+/content/dataset/OID/Dataset/train/red/0affdf85ae6f4fa6.jpg 310,564,316,574,1 474,35,539,178,1 832,37,893,182,1
+/content/dataset/OID/Dataset/train/red/172fe47ecfeb67f4.jpg 10,83,83,158,1 273,81,309,159,1 525,81,561,159,1
+/content/dataset/OID/Dataset/train/red/c31d8ad8e44a7f3c.jpg 301,355,340,435,1 455,376,488,453,1 624,422,665,501,1 752,432,777,476,1
+/content/dataset/OID/Dataset/train/red/15997e60839ddf49.jpg 465,262,482,314,1 584,344,604,385,1 608,394,624,410,1 620,341,638,383,1
+/content/dataset/OID/Dataset/train/red/9e326b8d7d26bc80.jpg 112,503,199,667,1 417,451,506,627,1 794,729,899,767,1
+/content/dataset/OID/Dataset/train/red/963b52049a6341c3.jpg 407,260,429,311,1 733,266,752,315,1 866,232,900,296,1 994,172,1023,236,1
+/content/dataset/OID/Dataset/train/red/90ef327c5e776091.jpg 625,291,673,410,1 743,375,775,444,1 798,394,821,440,1 870,417,896,471,1 920,436,943,469,1
+/content/dataset/OID/Dataset/train/red/5a0f93189bf4bc04.jpg 300,253,338,276,1 387,229,452,261,1
+/content/dataset/OID/Dataset/train/red/d4844924ff874cef.jpg 225,99,295,235,1 663,59,764,247,1
+/content/dataset/OID/Dataset/train/red/bebc7bd819cffc31.jpg 545,350,891,579,1 670,163,1023,513,1
+/content/dataset/OID/Dataset/train/red/0000599864fd15b3.jpg 96,318,110,342,1 115,320,128,345,1 131,181,180,260,1 199,175,253,279,1
+/content/dataset/OID/Dataset/train/red/be6cee3fef2c89b2.jpg 188,173,225,231,1 596,245,616,283,1 758,51,787,122,1 762,300,774,322,1 788,58,810,122,1 796,53,823,122,1 834,296,845,337,1 918,253,931,272,1 931,258,942,274,1
+/content/dataset/OID/Dataset/train/red/1ea11a6c11a40364.jpg 282,24,440,262,1
+/content/dataset/OID/Dataset/train/red/2665278dfe5f479b.jpg 155,252,413,645,1
+/content/dataset/OID/Dataset/train/red/0f543726052fa51b.jpg 190,286,245,374,1 245,237,294,348,1 296,217,356,374,1 489,358,507,401,1
+/content/dataset/OID/Dataset/train/red/24b1c64f978b9bf7.jpg 90,399,271,669,1 93,182,284,582,1
+/content/dataset/OID/Dataset/train/red/bbd54374143654b5.jpg 570,197,595,255,1 698,200,718,245,1 840,316,860,367,1
+/content/dataset/OID/Dataset/train/red/352926b5b2df71bd.jpg 17,0,160,251,1 39,94,133,327,1 156,85,330,255,1 196,117,302,302,1
+/content/dataset/OID/Dataset/train/red/0026d0c5a6d3c67e.jpg 226,309,247,356,1
+/content/dataset/OID/Dataset/train/red/af81fc0e698f0ca3.jpg 353,371,398,414,1 728,434,775,520,1 951,467,997,553,1
+/content/dataset/OID/Dataset/train/red/748cefd41d5f0fc8.jpg 151,549,162,579,1 957,383,1010,510,1
+/content/dataset/OID/Dataset/train/red/1544b16b14a8cd55.jpg 0,63,56,248,1 136,236,189,356,1 213,233,261,336,1 304,357,326,396,1 736,399,746,430,1 749,401,759,429,1 803,344,823,399,1 814,330,852,396,1 934,328,963,396,1 943,311,974,339,1 979,311,1013,390,1
+/content/dataset/OID/Dataset/train/red/78c35e92d40c7ac5.jpg 168,268,212,344,1 179,481,203,519,1 322,202,368,299,1 449,414,466,454,1 548,437,561,471,1 632,519,645,540,1 745,515,759,535,1 925,430,941,467,1
+/content/dataset/OID/Dataset/train/red/7820af20e2e9b77f.jpg 424,0,483,92,1 740,453,742,468,1 877,419,886,436,1 951,243,981,333,1 955,391,1023,442,1
+/content/dataset/OID/Dataset/train/red/5a97af11acff23a3.jpg 5,441,60,558,1 291,434,341,550,1 894,167,965,319,1
+/content/dataset/OID/Dataset/train/red/5eae8ec0538aa26a.jpg 171,461,320,747,1 823,961,932,1152,1 1194,255,1556,981,1 3939,461,4088,702,1
+/content/dataset/OID/Dataset/train/red/fe3a8d1e4bdc55fd.jpg 0,462,129,1022,1 192,8,594,1022,1 540,405,732,1022,1
+/content/dataset/OID/Dataset/train/red/072d02273245a2c4.jpg 40,390,74,484,1 156,467,179,521,1 181,468,202,519,1 652,481,677,499,1 659,501,673,514,1
+/content/dataset/OID/Dataset/train/red/9d78e161cc84c9bc.jpg 32,150,69,228,1 265,166,298,245,1 741,475,757,505,1 921,359,963,436,1 927,456,960,486,1
+/content/dataset/OID/Dataset/train/red/05290fd9390c48c7.jpg 42,199,136,352,1 392,418,398,432,1 402,407,410,436,1 432,340,447,370,1 545,3,606,122,1 548,399,554,429,1 680,398,688,430,1 906,332,943,382,1 938,296,986,397,1
+/content/dataset/OID/Dataset/train/red/2085c4f05c9683a6.jpg 80,62,197,328,1 194,23,290,247,1 255,247,317,389,1 353,252,449,434,1 456,422,495,503,1 492,413,563,537,1
+/content/dataset/OID/Dataset/train/red/00ecd56cf003cd6e.jpg 249,297,287,371,1 434,194,547,308,1 466,471,472,512,1 486,468,504,513,1 586,308,664,380,1
+/content/dataset/OID/Dataset/train/red/0d12a9ba8f1594e1.jpg 71,202,114,283,1 610,295,634,343,1 692,233,719,302,1 871,165,931,280,1 926,130,998,266,1
+/content/dataset/OID/Dataset/train/red/4a564cb2a14bef9c.jpg 572,287,679,465,1
+/content/dataset/OID/Dataset/train/red/b41e4d3ff086c115.jpg 371,204,396,270,1 441,428,451,440,1 585,430,597,444,1 587,348,616,375,1
+/content/dataset/OID/Dataset/train/red/eedbdfbca995bfe7.jpg 493,61,516,82,1
+/content/dataset/OID/Dataset/train/red/d6a06da10677a925.jpg 361,241,656,561,1
+/content/dataset/OID/Dataset/train/red/02bc0f41c8d6d58b.jpg 76,239,144,410,1 211,459,244,567,1 428,336,448,467,1 461,30,540,246,1 509,343,586,416,1 512,417,584,477,1
+/content/dataset/OID/Dataset/train/red/570e5ab2ecefdac6.jpg 590,24,992,384,1
+/content/dataset/OID/Dataset/train/red/0270b3f501a0f3a8.jpg 348,412,380,423,1 464,416,489,428,1 480,15,597,70,1 595,478,608,490,1 826,98,912,154,1 940,335,988,362,1
+/content/dataset/OID/Dataset/train/red/0064880cfb7b82ac.jpg 105,95,204,154,1 484,162,555,214,1 945,382,963,422,1
+/content/dataset/OID/Dataset/train/red/dcf813898f5a44f7.jpg 0,299,67,459,1 12,251,115,462,1 126,465,170,547,1 334,537,345,556,1 345,540,349,554,1 352,536,357,553,1 387,526,403,556,1 980,487,1001,536,1 1006,495,1023,534,1
+/content/dataset/OID/Dataset/train/red/0a51ca50198277fd.jpg 400,307,464,444,1
+/content/dataset/OID/Dataset/train/red/01248f94edf92e02.jpg 653,84,699,200,1 901,54,948,179,1
+/content/dataset/OID/Dataset/train/red/050adeedad9159b6.jpg 517,37,616,179,1 622,524,636,541,1 654,525,664,541,1 781,39,848,182,1
+/content/dataset/OID/Dataset/train/red/0e8fc36a7500e26f.jpg 51,204,117,272,1 60,52,124,190,1 721,188,762,273,1 723,294,766,336,1 890,384,906,409,1 892,421,906,435,1
+/content/dataset/OID/Dataset/train/red/bdd80bd304f42804.jpg 390,20,470,170,1 506,12,589,186,1
+/content/dataset/OID/Dataset/train/red/098f90acaca23f9e.jpg 782,39,901,481,1
+/content/dataset/OID/Dataset/train/red/a5b6563a204808a1.jpg 5,174,57,256,1 67,559,76,576,1 152,446,170,481,1 170,444,190,476,1 283,227,335,305,1 357,212,398,295,1 727,543,741,571,1
+/content/dataset/OID/Dataset/train/red/5f4fd8025e4f593f.jpg 190,197,359,556,1
+/content/dataset/OID/Dataset/train/red/a197a9a3983d80b8.jpg 156,423,184,449,1 170,358,192,420,1 182,431,196,456,1 724,120,766,203,1 868,24,922,127,1
+/content/dataset/OID/Dataset/train/red/2d523b4d0f64ce0a.jpg 400,359,432,394,1 436,359,460,399,1 544,406,550,411,1 594,441,598,444,1
+/content/dataset/OID/Dataset/train/red/edc7fcfa13047e0e.jpg 653,74,750,315,1
+/content/dataset/OID/Dataset/train/red/0d8f5df521cbf952.jpg 599,335,745,392,1
+/content/dataset/OID/Dataset/train/red/b353e600a29906dd.jpg 355,265,378,317,1 412,276,429,325,1 572,162,593,234,1 705,160,732,249,1 936,260,955,325,1
+/content/dataset/OID/Dataset/train/red/e8575fcbc1dc75d4.jpg 0,259,10,270,1 128,0,248,217,1 200,28,332,225,1 453,389,462,405,1 583,394,592,411,1 942,315,969,368,1 990,313,1018,367,1 1002,288,1020,303,1
+/content/dataset/OID/Dataset/train/red/29043058c459616a.jpg 197,270,223,341,1 241,296,262,356,1 281,493,302,510,1 295,436,314,483,1 384,442,400,487,1 398,492,411,514,1 981,456,999,501,1 988,508,999,529,1
+/content/dataset/OID/Dataset/train/red/5af050462c54a527.jpg 248,198,327,268,1 272,12,326,146,1 330,198,388,276,1
+/content/dataset/OID/Dataset/train/red/af07431b4a3ea69b.jpg 74,107,130,226,1
+/content/dataset/OID/Dataset/train/red/08db315d178d0e00.jpg 235,182,285,257,1 892,50,988,189,1 903,211,951,277,1
+/content/dataset/OID/Dataset/train/red/710b89662cdfd67c.jpg 83,21,701,967,1
+/content/dataset/OID/Dataset/train/red/f12bbc1975a3a225.jpg 150,357,401,991,1 289,373,489,938,1 790,585,851,751,1
+/content/dataset/OID/Dataset/train/red/0dc54432d12a1e6e.jpg 204,0,228,110,1 473,1,494,109,1 892,192,926,272,1
+/content/dataset/OID/Dataset/train/red/0838be59f01f3a25.jpg 595,96,649,238,1 652,152,689,230,1
+/content/dataset/OID/Dataset/train/red/08c2332b93bcf351.jpg 216,195,434,788,1 385,942,408,998,1 389,876,409,931,1 413,942,434,998,1 506,685,572,895,1 597,468,663,660,1 602,688,668,898,1
+/content/dataset/OID/Dataset/train/red/3971e68628edd912.jpg 659,142,690,219,1 801,160,834,232,1
+/content/dataset/OID/Dataset/train/red/efe8f9272de1aab1.jpg 122,349,141,357,1 510,246,544,270,1 583,274,606,292,1 695,374,705,410,1 725,376,735,388,1 821,286,845,299,1 924,276,965,285,1
+/content/dataset/OID/Dataset/train/red/f3506b83ab17114d.jpg 62,35,108,171,1
+/content/dataset/OID/Dataset/train/red/01a5002bdb679145.jpg 388,362,392,384,1 426,366,437,387,1 430,405,433,414,1 432,111,467,193,1 458,403,462,418,1 460,382,470,401,1 504,385,510,400,1 506,382,508,398,1 552,429,559,436,1 554,430,560,437,1 637,110,657,192,1 879,341,912,369,1
+/content/dataset/OID/Dataset/train/red/7f65661961d7ff58.jpg 662,357,749,579,1
+/content/dataset/OID/Dataset/train/red/dbbb61504c790ad7.jpg 304,572,318,595,1 384,489,394,521,1 478,597,486,611,1 778,609,785,617,1 824,539,832,566,1 878,533,891,558,1
+/content/dataset/OID/Dataset/train/red/1b1e3f57e92fdb2c.jpg 213,364,227,400,1 336,379,344,401,1 341,376,352,404,1 357,378,368,406,1 463,74,503,179,1 538,256,556,305,1 838,258,875,352,1 883,269,917,344,1
+/content/dataset/OID/Dataset/train/red/9651a7228ea0d893.jpg 278,198,351,359,1
+/content/dataset/OID/Dataset/train/red/ff2b7979dd2ad317.jpg 51,396,60,407,1 163,280,180,323,1 217,401,227,413,1 331,215,360,271,1
+/content/dataset/OID/Dataset/train/red/10768eb9f59e4239.jpg 234,202,306,306,1 305,245,330,305,1 922,283,948,349,1 948,298,977,346,1
+/content/dataset/OID/Dataset/train/red/7b2b72aa9fda251d.jpg 135,0,176,60,1 255,544,259,556,1 255,475,265,496,1 263,542,272,553,1 388,467,396,491,1 401,467,410,491,1 485,483,496,501,1 496,173,524,263,1 502,482,510,501,1 686,547,694,552,1 712,178,739,267,1
+/content/dataset/OID/Dataset/train/red/59c75649f6716550.jpg 44,272,99,381,1 246,436,272,472,1 408,461,417,479,1 552,284,599,381,1 556,457,565,477,1 686,420,702,464,1 867,434,885,468,1 929,440,940,471,1
+/content/dataset/OID/Dataset/train/red/3b9a9f90db3fc627.jpg 327,221,638,557,1
+/content/dataset/OID/Dataset/train/red/975ab513c8f80353.jpg 54,376,92,458,1 218,715,229,745,1 225,677,250,724,1 238,722,250,748,1 339,609,369,666,1
+/content/dataset/OID/Dataset/train/red/563d09804aef294f.jpg 297,229,357,349,1
+/content/dataset/OID/Dataset/train/red/aebfbed73ccc63b2.jpg 331,296,419,334,1 426,502,449,510,1 609,478,636,488,1
+/content/dataset/OID/Dataset/train/red/8d578cb8faae561f.jpg 67,97,115,199,1 330,99,376,199,1 468,509,484,535,1 638,510,652,538,1 833,0,929,257,1
+/content/dataset/OID/Dataset/train/red/f161e008efb2a430.jpg 563,450,586,494,1 682,472,698,506,1 849,532,871,575,1
+/content/dataset/OID/Dataset/train/red/9aaf2c3d993706e9.jpg 30,647,37,661,1 156,333,197,423,1 536,531,570,591,1 568,538,595,593,1 837,184,892,300,1
+/content/dataset/OID/Dataset/train/red/04dd79863a4c2c59.jpg 320,74,436,336,1 493,20,650,370,1
+/content/dataset/OID/Dataset/train/red/000bb0ae453283b0.jpg 83,323,88,333,1 108,323,113,333,1 196,331,201,347,1 316,275,325,295,1 357,282,370,306,1 451,329,458,357,1 536,338,542,350,1 549,344,554,352,1 732,325,738,345,1 914,327,923,350,1
+/content/dataset/OID/Dataset/train/red/c60bf0b006660acb.jpg 691,292,869,518,1
+/content/dataset/OID/Dataset/train/red/090aa2c685cfa8e2.jpg 0,35,443,1016,1 468,17,593,362,1
+/content/dataset/OID/Dataset/train/red/4c14565f3b793699.jpg 677,285,727,333,1 770,213,887,278,1 771,286,814,335,1
+/content/dataset/OID/Dataset/train/red/ca84a75ba4353ddb.jpg 134,364,232,559,1 391,443,444,576,1
+/content/dataset/OID/Dataset/train/red/76f0997ce69216b9.jpg 69,0,186,263,1 202,296,212,319,1
+/content/dataset/OID/Dataset/train/red/6757b852e1c88391.jpg 467,75,541,217,1 488,268,578,346,1
+/content/dataset/OID/Dataset/train/red/540e8509e777a202.jpg 71,494,144,556,1 80,765,87,776,1 215,714,225,736,1 306,730,311,744,1 360,727,366,746,1 373,739,382,758,1 428,760,435,771,1
+/content/dataset/OID/Dataset/train/red/0039c0f792f8233e.jpg 6,365,47,402,1 55,247,90,329,1 990,110,1023,207,1
+/content/dataset/OID/Dataset/train/red/310b3c24db2cd5b1.jpg 236,0,1023,682,1
+/content/dataset/OID/Dataset/train/red/c80ea8da9993ff08.jpg 520,35,628,213,1 619,762,634,777,1 681,631,700,664,1
+/content/dataset/OID/Dataset/train/red/a8ed2c9c17319ea2.jpg 273,207,359,252,1 305,195,396,248,1 879,218,971,267,1 913,225,997,266,1
+/content/dataset/OID/Dataset/train/red/0250358d6106d916.jpg 145,423,166,464,1 231,412,252,455,1 414,11,476,153,1
+/content/dataset/OID/Dataset/train/red/507c50f62c74200a.jpg 368,510,375,524,1 379,508,388,524,1 421,512,429,528,1 755,313,803,418,1 864,169,1014,357,1
+/content/dataset/OID/Dataset/train/red/e765008b01e7689f.jpg 371,492,390,534,1 472,448,489,492,1 596,379,608,417,1 824,490,833,510,1 888,468,903,501,1 920,423,944,480,1 924,480,945,526,1
+/content/dataset/OID/Dataset/train/red/575d0b055848727f.jpg 202,567,311,766,1 266,144,417,511,1
+/content/dataset/OID/Dataset/train/red/19e2ba53d3c11691.jpg 81,99,108,159,1 320,292,329,329,1 336,58,344,119,1 342,54,367,123,1 625,49,652,123,1 875,232,905,267,1
+/content/dataset/OID/Dataset/train/red/f478a21f24c02236.jpg 425,430,430,446,1 640,446,645,458,1 693,341,821,465,1 900,420,922,456,1 920,481,935,499,1
+/content/dataset/OID/Dataset/train/red/da534b239f6b8d1b.jpg 268,298,376,608,1 426,707,450,743,1
+/content/dataset/OID/Dataset/train/red/3067adc8b0127a73.jpg 293,401,427,590,1 669,113,860,216,1
+/content/dataset/OID/Dataset/train/red/0abb07beb161bd24.jpg 373,668,402,700,1 623,420,695,499,1
+/content/dataset/OID/Dataset/train/red/dae30815dc6212de.jpg 278,220,320,287,1 814,165,862,251,1
+/content/dataset/OID/Dataset/train/red/992763ed4f91c391.jpg 70,544,89,584,1 89,584,112,622,1 231,444,298,467,1 394,323,497,357,1 448,645,455,657,1 457,645,469,664,1 500,597,523,606,1 554,631,570,638,1 672,592,680,616,1
+/content/dataset/OID/Dataset/train/red/3ebc6c05846d355e.jpg 373,488,379,503,1 384,432,405,463,1 391,485,407,507,1 624,234,652,302,1 677,363,696,424,1
+/content/dataset/OID/Dataset/train/red/04cdbe5d2100cd12.jpg 220,308,370,449,1
+/content/dataset/OID/Dataset/train/red/7654b96e7a080168.jpg 588,382,612,419,1 680,342,736,436,1 726,371,764,440,1 870,404,893,464,1 899,420,918,468,1
+/content/dataset/OID/Dataset/train/red/43b8ec2ef5b362a0.jpg 525,153,690,518,1
+/content/dataset/OID/Dataset/train/red/10919d37ab0560a0.jpg 332,100,364,179,1 542,413,547,424,1 641,359,650,379,1 705,405,711,420,1 725,304,757,377,1 744,384,758,419,1 755,302,784,334,1 758,340,787,381,1 800,423,809,432,1
+/content/dataset/OID/Dataset/train/red/8b1f22002ab794d5.jpg 464,192,503,277,1
+/content/dataset/OID/Dataset/train/red/74c1948efdfb061c.jpg 0,272,197,750,1 179,186,405,872,1
+/content/dataset/OID/Dataset/train/red/c5b6fce4aec48fd6.jpg 423,319,444,397,1 487,489,492,505,1 494,490,502,510,1 501,515,504,528,1 506,517,508,520,1 515,515,519,528,1 558,320,583,398,1 645,488,650,506,1 688,336,714,359,1 688,362,716,391,1 691,510,692,518,1 714,442,732,462,1 717,462,730,482,1 720,276,760,357,1 730,116,778,245,1 768,432,790,482,1
+/content/dataset/OID/Dataset/train/red/aac7d4614482c0cd.jpg 412,355,431,448,1 433,350,455,405,1
+/content/dataset/OID/Dataset/train/red/034328631076b604.jpg 355,398,373,437,1 443,399,460,433,1 531,393,549,430,1 936,215,967,286,1 974,182,1005,252,1
+/content/dataset/OID/Dataset/train/red/4daaab9f01df05f9.jpg 69,358,109,440,1 78,442,121,497,1 123,348,168,436,1
+/content/dataset/OID/Dataset/train/red/f659b8d6fcd2a523.jpg 162,90,206,171,1 688,342,696,356,1 727,351,732,361,1 753,83,798,162,1 789,336,798,351,1 873,361,878,372,1 876,335,883,348,1
+/content/dataset/OID/Dataset/train/red/2310163d3ac826a4.jpg 554,0,818,654,1
+/content/dataset/OID/Dataset/train/red/99a0c44de67dd998.jpg 359,416,417,523,1 422,440,465,551,1 932,515,955,566,1
+/content/dataset/OID/Dataset/train/red/c730d99bcd33d08e.jpg 296,83,338,169,1 490,434,499,452,1 542,430,549,448,1 613,434,621,451,1 954,427,997,462,1
+/content/dataset/OID/Dataset/train/red/2b7bb8effeeff6f1.jpg 698,104,1020,336,1
+/content/dataset/OID/Dataset/train/red/6eeda7e1b95dada5.jpg 115,305,212,408,1 272,301,305,396,1 313,418,342,447,1
+/content/dataset/OID/Dataset/train/red/0a2f943ecd444cce.jpg 115,452,129,488,1 553,288,583,352,1 833,430,847,466,1
+/content/dataset/OID/Dataset/train/red/1f84c4adfdb2ac7c.jpg 15,120,68,255,1 394,131,439,236,1
+/content/dataset/OID/Dataset/train/red/b9209573d1939678.jpg 232,192,269,281,1 348,436,350,443,1 354,433,355,443,1 412,288,433,339,1 641,304,666,355,1
+/content/dataset/OID/Dataset/train/red/cdddc8e7203d2001.jpg 103,27,767,1023,1 106,26,432,1023,1 400,355,767,1023,1
+/content/dataset/OID/Dataset/train/red/329fe05912c53611.jpg 59,487,96,541,1 284,673,311,698,1 405,520,447,627,1 414,629,439,682,1 465,717,474,733,1 863,261,921,368,1
+/content/dataset/OID/Dataset/train/red/32198284f9976c65.jpg 940,508,999,578,1
+/content/dataset/OID/Dataset/train/red/3be9cfa9df252e9c.jpg 0,423,72,574,1 216,570,249,639,1 240,430,306,574,1 268,572,298,641,1
+/content/dataset/OID/Dataset/train/red/cc734c18caefaa65.jpg 1,251,28,308,1 667,196,693,266,1 909,416,924,446,1 915,367,935,413,1
+/content/dataset/OID/Dataset/train/red/116b7a0af3b11f17.jpg 399,177,630,653,1
+/content/dataset/OID/Dataset/train/red/25d8dad15ed03db8.jpg 0,319,40,412,1 240,106,358,183,1 453,519,464,537,1 505,445,530,462,1 679,511,689,528,1
+/content/dataset/OID/Dataset/train/red/081c7365d8d1cf0d.jpg 42,74,91,191,1 74,86,119,197,1 616,444,624,459,1 793,396,832,456,1
+/content/dataset/OID/Dataset/train/red/5102a101e7da8aa7.jpg 318,576,567,767,1 374,42,640,579,1
+/content/dataset/OID/Dataset/train/red/2d4fd88a9f7a841f.jpg 69,153,131,300,1 462,88,517,235,1 737,208,835,422,1
+/content/dataset/OID/Dataset/train/red/549a4ae590e5ec6e.jpg 0,304,51,613,1 54,94,239,525,1 259,92,426,520,1 446,94,618,529,1
+/content/dataset/OID/Dataset/train/red/bcdcbab51ec9ff06.jpg 765,412,792,454,1 804,488,827,514,1
+/content/dataset/OID/Dataset/train/red/170bdd1789f7f463.jpg 601,278,629,346,1 712,229,746,306,1 745,435,757,459,1 802,428,816,460,1 916,441,928,460,1 969,437,982,460,1
+/content/dataset/OID/Dataset/train/red/616247492f445f8b.jpg 100,448,196,551,1 343,820,360,838,1 408,815,422,838,1 460,328,576,457,1 791,705,814,766,1 796,774,817,796,1 835,705,862,766,1 838,772,866,796,1
+/content/dataset/OID/Dataset/train/red/22e32bc83f6625d2.jpg 33,3,109,94,1 568,247,620,352,1
+/content/dataset/OID/Dataset/train/red/c71150221fdb4882.jpg 344,77,503,398,1
+/content/dataset/OID/Dataset/train/red/1539f16167a4b4f6.jpg 131,70,869,682,1
+/content/dataset/OID/Dataset/train/red/b740ca232ca030cd.jpg 520,158,723,585,1 727,133,924,596,1
+/content/dataset/OID/Dataset/train/red/01af919be5ca4bd9.jpg 319,484,355,559,1 469,482,505,556,1 660,482,695,558,1 1016,632,1023,680,1
+/content/dataset/OID/Dataset/train/red/11330761cbe3dea7.jpg 99,399,112,424,1 461,125,496,195,1 791,170,824,240,1
+/content/dataset/OID/Dataset/train/red/e426b300d080ab80.jpg 646,369,687,430,1 708,376,746,421,1
+/content/dataset/OID/Dataset/train/red/f8026aa970f2a1ad.jpg 364,27,425,110,1 641,37,678,118,1 734,358,743,371,1 778,359,784,372,1 847,400,854,408,1 848,384,858,399,1
+/content/dataset/OID/Dataset/train/red/c9be4f1f37f95915.jpg 57,427,74,459,1 209,451,216,478,1 214,497,231,523,1 216,537,228,548,1 453,327,479,380,1 468,500,481,534,1 488,506,497,534,1 557,271,585,340,1 763,121,823,293,1 836,113,919,256,1
+/content/dataset/OID/Dataset/train/red/7bd2d9e25e19ebc4.jpg 452,430,519,528,1 519,504,548,558,1
+/content/dataset/OID/Dataset/train/red/f96e7b9357118239.jpg 66,0,1023,767,1
+/content/dataset/OID/Dataset/train/red/8938f49956d3552a.jpg 56,390,88,453,1
+/content/dataset/OID/Dataset/train/red/6a5ad7264c8ab9c1.jpg 168,302,218,392,1 204,424,215,453,1 312,408,327,432,1
+/content/dataset/OID/Dataset/train/red/d7b14f02e9f68024.jpg 374,160,411,251,1
+/content/dataset/OID/Dataset/train/red/2092b79bc77e8d0b.jpg 328,145,386,285,1 554,131,611,269,1
+/content/dataset/OID/Dataset/train/red/0a88fd47e35bec84.jpg 487,184,650,447,1
+/content/dataset/OID/Dataset/train/red/17bbdf80f8be2b59.jpg 443,529,474,553,1 468,460,485,507,1 668,358,695,413,1 826,356,850,406,1
+/content/dataset/OID/Dataset/train/red/1114ddb9312e88af.jpg 33,611,95,751,1 215,420,307,611,1 332,19,442,529,1 351,23,585,523,1 610,24,769,351,1
+/content/dataset/OID/Dataset/train/red/89960edef2e54d7b.jpg 263,367,426,557,1 313,162,513,424,1
+/content/dataset/OID/Dataset/train/red/0285dbc1db272d9c.jpg 172,163,209,359,1 274,22,389,305,1 277,345,487,535,1 542,443,699,603,1 666,284,812,522,1 724,28,870,282,1
+/content/dataset/OID/Dataset/train/red/0401724cd4521b88.jpg 179,586,218,657,1 248,595,300,666,1 474,434,581,475,1 488,415,602,466,1
+/content/dataset/OID/Dataset/train/red/b153909e3a50179f.jpg 488,250,832,665,1
+/content/dataset/OID/Dataset/train/red/6248e31cc896558e.jpg 53,313,236,405,1 127,288,315,384,1 663,625,725,679,1 765,279,968,381,1
+/content/dataset/OID/Dataset/train/red/b930dd68ac33cb25.jpg 384,730,430,868,1 737,727,787,865,1
+/content/dataset/OID/Dataset/train/red/3268b05c28405588.jpg 544,155,551,170,1 560,2,584,56,1 577,155,584,170,1 650,174,656,185,1 675,174,682,186,1 712,3,738,56,1 733,206,737,214,1 867,15,893,63,1 885,204,889,214,1
+/content/dataset/OID/Dataset/train/red/4d370fd73a8dbf27.jpg 69,440,92,459,1 73,388,90,425,1 620,299,643,344,1 721,304,744,349,1 850,340,871,393,1 863,459,881,473,1
+/content/dataset/OID/Dataset/train/red/01b529237f4de920.jpg 51,330,72,376,1 73,328,103,385,1 76,326,105,384,1 330,401,342,426,1 808,423,824,451,1 824,427,844,459,1
+/content/dataset/OID/Dataset/train/red/2ed4c1e66632b105.jpg 6,0,36,63,1 207,137,231,197,1 282,0,316,81,1 364,266,376,301,1 405,88,427,155,1 480,241,489,280,1 536,257,552,289,1 620,8,650,84,1 622,262,632,291,1 644,264,657,291,1 711,121,732,185,1 712,248,727,285,1 826,275,837,315,1 858,134,876,205,1 904,0,931,76,1
+/content/dataset/OID/Dataset/train/red/090512fe8d317088.jpg 205,158,437,614,1 308,936,315,952,1 317,938,322,952,1 398,693,488,991,1 643,966,662,985,1 649,889,681,954,1
+/content/dataset/OID/Dataset/train/red/9945685e44f15a6d.jpg 162,294,222,330,1 350,245,372,289,1 387,372,409,395,1 424,376,436,397,1 549,89,572,165,1 564,98,602,199,1 897,268,913,315,1
+/content/dataset/OID/Dataset/train/red/19c0beb6360f9dac.jpg 57,559,77,597,1 213,0,280,59,1 698,0,746,40,1 736,191,776,280,1 973,241,1009,324,1
+/content/dataset/OID/Dataset/train/red/63bad3ae8a5e2540.jpg 706,238,738,335,1 909,475,930,506,1 967,348,1002,418,1
+/content/dataset/OID/Dataset/train/red/01113ad4f68432cf.jpg 206,328,227,383,1 224,495,240,536,1 251,489,277,540,1 253,328,279,382,1 255,540,279,565,1 935,505,952,540,1 954,505,972,537,1 972,509,982,535,1
+/content/dataset/OID/Dataset/train/red/d3a403fda7026c98.jpg 0,0,974,679,1
+/content/dataset/OID/Dataset/train/Car/5a1482ffa11a033f.jpg 188,353,336,494,2 33,377,79,423,2 78,385,88,406,2 91,380,116,408,2 122,376,149,396,2 166,362,192,393,2 339,388,373,420,2 422,380,495,439,2
+/content/dataset/OID/Dataset/train/Car/f7c261f95d52294a.jpg 0,87,1023,576,2
+/content/dataset/OID/Dataset/train/Car/1e58b66c1e5ab1f1.jpg 31,36,1000,963,2
+/content/dataset/OID/Dataset/train/Car/564d64d5adb78d90.jpg 254,101,836,597,2
+/content/dataset/OID/Dataset/train/Car/b6e48d9289c64bc3.jpg 387,188,639,326,2 631,172,885,328,2
+/content/dataset/OID/Dataset/train/Car/efcdc9c975d9ff8c.jpg 189,216,352,323,2 359,217,421,259,2
+/content/dataset/OID/Dataset/train/Car/51eb9158943fea25.jpg 205,330,369,444,2 652,356,750,420,2
+/content/dataset/OID/Dataset/train/Car/bfb68814d16638fc.jpg 45,237,935,529,2 89,253,152,295,2 613,248,651,277,2 716,251,756,283,2 785,251,815,279,2 862,257,911,288,2 946,260,986,292,2
+/content/dataset/OID/Dataset/train/Car/86676e8db4a65f0a.jpg 0,389,501,679,2 499,300,856,679,2
+/content/dataset/OID/Dataset/train/Car/7664d72377c4c780.jpg 0,173,1023,1014,2
+/content/dataset/OID/Dataset/train/Car/15699b3b89d766d9.jpg 0,0,1023,765,2
+/content/dataset/OID/Dataset/train/Car/3813c7b3018a0ee6.jpg 7,111,973,580,2 0,61,86,186,2
+/content/dataset/OID/Dataset/train/Car/9484780a488c796a.jpg 0,517,75,796,2 112,555,313,715,2 212,497,336,652,2
+/content/dataset/OID/Dataset/train/Car/5ce18be516e66b44.jpg 66,54,938,416,2
+/content/dataset/OID/Dataset/train/Car/9f6039910b9f2c0c.jpg 630,266,1023,682,2 986,351,1023,505,2
+/content/dataset/OID/Dataset/train/Car/9a1b31315a465731.jpg 0,117,553,260,2 264,267,671,559,2 662,139,771,248,2 792,249,1023,477,2 831,124,993,224,2 878,297,1023,537,2
+/content/dataset/OID/Dataset/train/Car/62463680dd2a46e6.jpg 36,625,419,766,2
+/content/dataset/OID/Dataset/train/Car/5fadd03ee8a05b93.jpg 0,380,95,535,2 1,326,330,509,2 231,334,398,493,2 381,321,533,452,2 381,342,470,430,2 663,338,844,452,2 801,335,906,377,2 856,365,932,445,2 874,334,1023,432,2
+/content/dataset/OID/Dataset/train/Car/9119cdb5ae79d644.jpg 286,162,810,569,2 856,160,1023,336,2
+/content/dataset/OID/Dataset/train/Car/53a70808ca85d061.jpg 532,423,683,488,2
+/content/dataset/OID/Dataset/train/Car/2132d276c74a2f60.jpg 103,156,778,497,2
+/content/dataset/OID/Dataset/train/Car/3e37d17d9d11c553.jpg 0,11,1023,682,2
+/content/dataset/OID/Dataset/train/Car/214e2dbd9df4d30e.jpg 0,62,1022,797,2
+/content/dataset/OID/Dataset/train/Car/cdecc3240b6b354f.jpg 0,203,168,325,2 109,209,741,649,2 278,209,388,285,2 574,183,778,370,2 703,219,791,298,2
+/content/dataset/OID/Dataset/train/Car/6efa150b05b4fc2f.jpg 0,0,697,754,2 639,28,838,344,2
+/content/dataset/OID/Dataset/train/Car/4441a25999e2cc5c.jpg 4788,1481,5413,2046,2 4141,1481,4982,1943,2 5136,1416,5468,1663,2
+/content/dataset/OID/Dataset/train/Car/d124439f2993ac7e.jpg 308,392,468,507,2 88,404,181,434,2 190,396,267,432,2 262,402,300,434,2 298,409,330,431,2 597,412,621,424,2 640,412,657,424,2 657,411,672,425,2 718,407,748,436,2 813,407,994,439,2
+/content/dataset/OID/Dataset/train/Car/ba0cd955fd54429a.jpg 812,187,1023,385,2
+/content/dataset/OID/Dataset/train/Car/d47d2f8b93f9fb7a.jpg 0,251,238,436,2 199,180,898,633,2 663,135,894,285,2 822,120,880,174,2
+/content/dataset/OID/Dataset/train/Car/dd133861e7457d3d.jpg 60,426,371,691,2
+/content/dataset/OID/Dataset/train/Car/68464d11599f23b2.jpg 9,519,251,668,2 149,537,281,602,2 165,520,859,712,2
+/content/dataset/OID/Dataset/train/Car/43f6f7e0f8e414f3.jpg 703,462,783,555,2 803,483,903,601,2
+/content/dataset/OID/Dataset/train/Car/1035fa2213ec9276.jpg 293,309,405,392,2 364,313,560,431,2 586,321,648,360,2 800,322,910,403,2 974,313,1023,501,2
+/content/dataset/OID/Dataset/train/Car/8c89eed927d3b103.jpg 57,209,943,631,2 91,204,554,258,2 636,229,825,283,2 689,204,837,242,2 861,192,1023,318,2
+/content/dataset/OID/Dataset/train/Car/b23fad8d0810e067.jpg 234,189,931,573,2
+/content/dataset/OID/Dataset/train/Car/898a95bdb9765fde.jpg 0,112,767,1023,2 16,362,671,499,2
+/content/dataset/OID/Dataset/train/Car/1364fc9ce7034c9c.jpg 58,363,147,404,2 880,362,910,384,2 880,372,928,412,2 920,323,1023,435,2
+/content/dataset/OID/Dataset/train/Car/0f6148f799477cb0.jpg 125,238,635,733,2 0,401,41,535,2
+/content/dataset/OID/Dataset/train/Car/1e125d3a8bb7ae04.jpg 691,571,1023,682,2
+/content/dataset/OID/Dataset/train/Car/3979bbc61aad992a.jpg 121,10,928,705,2
+/content/dataset/OID/Dataset/train/Car/8270c8ed083b4721.jpg 0,0,224,150,2 183,17,839,546,2 760,0,913,46,2 867,0,1023,144,2
+/content/dataset/OID/Dataset/train/Car/cfa5cf51cb6848df.jpg 170,0,1023,466,2
+/content/dataset/OID/Dataset/train/Car/576d38017a67ccc1.jpg 188,307,831,542,2
+/content/dataset/OID/Dataset/train/Car/b670cb53e4b6aaea.jpg 301,291,358,310,2
+/content/dataset/OID/Dataset/train/Car/89aab6ea239d668c.jpg 67,62,929,612,2
+/content/dataset/OID/Dataset/train/Car/42eac3cc686da630.jpg 108,131,983,594,2
+/content/dataset/OID/Dataset/train/Car/58fb5612ad190599.jpg 0,0,676,1022,2
+/content/dataset/OID/Dataset/train/Car/033bf776569d6538.jpg 803,336,984,405,2 0,326,14,349,2 0,350,30,383,2 92,324,163,372,2 296,323,360,339,2 460,324,519,348,2 503,324,652,367,2 960,341,1022,408,2
+/content/dataset/OID/Dataset/train/Car/8a6482d48a44e96c.jpg 3,111,206,204,2
+/content/dataset/OID/Dataset/train/Car/e988d3cae658ddda.jpg 0,358,12,417,2 808,376,993,450,2 977,384,1023,437,2
+/content/dataset/OID/Dataset/train/Car/92f3444fa4dac5aa.jpg 0,0,1023,767,2
+/content/dataset/OID/Dataset/train/Car/d83ca075afa339b6.jpg 129,69,983,663,2 855,12,1023,124,2
+/content/dataset/OID/Dataset/train/Car/2396a24863cdf412.jpg 0,438,45,543,2 88,404,874,673,2
+/content/dataset/OID/Dataset/train/Car/22820d1eb3dff073.jpg 311,329,406,359,2
+/content/dataset/OID/Dataset/train/Car/1284c5159f25e4bb.jpg 0,182,298,407,2 58,41,917,656,2
+/content/dataset/OID/Dataset/train/Car/83904e2a214d2ca7.jpg 71,9,1024,723,2
+/content/dataset/OID/Dataset/train/Car/d31b7e1d65c44884.jpg 49,240,958,567,2 583,187,1023,396,2
+/content/dataset/OID/Dataset/train/Car/d7160114900bde0d.jpg 442,308,937,455,2
+/content/dataset/OID/Dataset/train/Car/e20caf1ad2dcf893.jpg 179,478,448,577,2 696,483,851,549,2 846,473,963,536,2
+/content/dataset/OID/Dataset/train/Car/e2d0ed20239b109a.jpg 366,440,1023,528,2
+/content/dataset/OID/Dataset/train/Car/7bb0bc76d3708d75.jpg 556,345,1023,509,2
+/content/dataset/OID/Dataset/train/Car/bf3b159f2a455f11.jpg 0,72,158,171,2 103,94,167,149,2 438,119,522,151,2
+/content/dataset/OID/Dataset/train/Car/530d63772d2c6764.jpg 0,133,190,376,2 60,146,981,606,2
+/content/dataset/OID/Dataset/train/Car/b5cd0aa7d1121d8d.jpg 0,557,308,767,2 769,468,983,586,2
+/content/dataset/OID/Dataset/train/Car/1cee366e3f22819c.jpg 3,290,1022,682,2
+/content/dataset/OID/Dataset/train/Car/47c645bf8c9e4cc8.jpg 328,221,976,693,2 322,287,620,399,2
+/content/dataset/OID/Dataset/train/Car/c258d16dccf8173e.jpg 0,593,37,649,2 0,693,172,767,2 10,602,101,657,2 136,611,251,670,2 230,616,374,682,2 826,625,1023,739,2
+/content/dataset/OID/Dataset/train/Car/e210fa3f5c9cd98d.jpg 500,438,666,579,2 312,444,488,563,2
+/content/dataset/OID/Dataset/train/Car/771e48e3e78b8f80.jpg 0,494,149,723,2 272,494,443,595,2 500,481,603,576,2 594,497,615,541,2 666,501,695,536,2 682,497,721,552,2 714,480,877,583,2
+/content/dataset/OID/Dataset/train/Car/1aa2175f78d76df7.jpg 350,227,817,627,2
+/content/dataset/OID/Dataset/train/Car/598d5dfb443959b5.jpg 903,428,1009,515,2 846,424,889,490,2
+/content/dataset/OID/Dataset/train/Car/6820c80f602d308f.jpg 11,462,285,612,2 486,474,775,585,2 712,457,933,573,2
+/content/dataset/OID/Dataset/train/Car/88754bee39a322de.jpg 212,1003,3100,2033,2
+/content/dataset/OID/Dataset/train/Car/37773cfe425a9968.jpg 0,164,81,217,2 216,160,384,242,2 725,138,940,238,2 972,179,1002,218,2
+/content/dataset/OID/Dataset/train/Car/d5f8542e6608c920.jpg 16,9,931,768,2
+/content/dataset/OID/Dataset/train/Car/de9be9d66e4444cf.jpg 112,651,318,800,2 553,628,686,829,2 640,538,924,795,2
+/content/dataset/OID/Dataset/train/Car/c5d89d1f9c930367.jpg 164,290,993,561,2
+/content/dataset/OID/Dataset/train/Car/4fb8a66fd287dba0.jpg 136,113,910,585,2
+/content/dataset/OID/Dataset/train/Car/4cc5a6915beea526.jpg 231,115,846,434,2
+/content/dataset/OID/Dataset/train/Car/00374eeb5921c260.jpg 80,23,876,260,2
+/content/dataset/OID/Dataset/train/Car/4214d02a43e8fb29.jpg 277,0,1023,889,2
+/content/dataset/OID/Dataset/train/Car/14d825d7d2112e2d.jpg 524,551,768,705,2
+/content/dataset/OID/Dataset/train/Car/b916f71b3daf4989.jpg 51,65,988,711,2 0,7,69,63,2 0,104,275,298,2 55,16,197,76,2 274,23,413,93,2 577,26,740,72,2 759,30,925,107,2 950,32,1022,92,2
+/content/dataset/OID/Dataset/train/Car/5312c5c60f54f157.jpg 263,225,748,518,2 174,237,298,331,2 491,233,803,338,2 846,287,1023,429,2
+/content/dataset/OID/Dataset/train/Car/129a1e0b72644807.jpg 69,78,965,680,2
+/content/dataset/OID/Dataset/train/Car/f67ef9d8734679e9.jpg 0,486,56,557,2 37,486,67,540,2 425,477,791,604,2 856,481,1023,612,2
+/content/dataset/OID/Dataset/train/Car/648e40525aeaf0d4.jpg 40,0,1015,569,2
+/content/dataset/OID/Dataset/train/Car/4aa4e9e840420f35.jpg 0,237,720,683,2 716,350,1023,682,2
+/content/dataset/OID/Dataset/train/Car/597d7d8598f63982.jpg 76,159,1024,741,2
+/content/dataset/OID/Dataset/train/Car/1ed6472e283fd30b.jpg 286,310,488,408,2 0,341,216,512,2 459,304,515,342,2 476,307,563,364,2 623,299,652,332,2 643,295,669,326,2
+/content/dataset/OID/Dataset/train/Car/a60f98234217c32b.jpg 809,192,932,255,2
+/content/dataset/OID/Dataset/train/Car/f6546ad6130cf856.jpg 0,350,245,652,2 929,295,1012,389,2 995,298,1018,325,2
+/content/dataset/OID/Dataset/train/Car/3709608662e34cc5.jpg 698,65,1000,293,2 0,102,21,178,2 26,53,115,114,2 51,66,321,196,2 304,33,791,323,2 319,9,598,105,2 832,37,1023,133,2 931,197,1023,392,2
+/content/dataset/OID/Dataset/train/Car/04b6fb9c71cf92d2.jpg 898,438,1023,523,2
+/content/dataset/OID/Dataset/train/Car/638c8c17ca3d3ffb.jpg 12,275,206,479,2
+/content/dataset/OID/Dataset/train/Car/1bd75210213af39a.jpg 154,271,916,555,2
+/content/dataset/OID/Dataset/train/Car/a876784fb92a44f5.jpg 432,687,677,763,2 213,683,338,764,2
+/content/dataset/OID/Dataset/train/Car/101ed7c33f0c5b85.jpg 0,303,120,574,2 228,281,569,456,2 792,260,827,297,2
+/content/dataset/OID/Dataset/train/Car/26563327c1689698.jpg 0,467,161,625,2
+/content/dataset/OID/Dataset/train/Car/c73967bf7bd357bf.jpg 0,27,545,429,2 277,0,428,115,2
+/content/dataset/OID/Dataset/train/Car/b2a36196721315df.jpg 823,496,950,563,2 942,507,992,557,2 980,496,1023,550,2
+/content/dataset/OID/Dataset/train/Car/98c8e29bffee3c82.jpg 0,186,1023,564,2
+/content/dataset/OID/Dataset/train/Car/f852eb44caacf6e5.jpg 0,616,380,767,2 510,238,864,487,2
+/content/dataset/OID/Dataset/train/Car/a3d6fc3ab4c6598a.jpg 64,133,964,580,2 0,124,222,289,2 309,126,609,257,2 519,125,860,256,2 732,164,1023,404,2 785,130,1019,239,2
+/content/dataset/OID/Dataset/train/Car/b6efdb1c948f2757.jpg 0,499,107,681,2
+/content/dataset/OID/Dataset/train/Car/34b9bb9e8b6dd269.jpg 0,75,412,325,2
+/content/dataset/OID/Dataset/train/Car/d34347b26a06fd28.jpg 51,108,912,563,2
+/content/dataset/OID/Dataset/train/Car/5bb43ea2b0abf7bc.jpg 636,430,788,523,2 471,464,618,508,2
+/content/dataset/OID/Dataset/train/Car/cfe25b5a5c7c2a4f.jpg 90,123,841,521,2
+/content/dataset/OID/Dataset/train/Car/899de20f8158c895.jpg 0,0,471,458,2 108,0,911,681,2
+/content/dataset/OID/Dataset/train/Car/5df8fdb71e424bc4.jpg 73,157,963,587,2 883,172,1023,299,2
+/content/dataset/OID/Dataset/train/Car/dcf3a9e867a738d8.jpg 0,23,360,552,2 661,0,767,359,2
+/content/dataset/OID/Dataset/train/Car/4ca3d9f52de7e0a1.jpg 3,704,161,889,2 409,735,770,969,2
+/content/dataset/OID/Dataset/train/Car/0a6e71c06d84ead0.jpg 102,114,207,178,2 0,117,38,137,2 55,119,120,169,2
+/content/dataset/OID/Dataset/train/Car/418421a8f86f13ce.jpg 0,177,76,298,2 171,140,346,229,2 418,117,639,257,2 635,99,746,160,2 730,124,896,230,2 814,112,1023,370,2
+/content/dataset/OID/Dataset/train/Car/10f8691654fabd50.jpg 107,157,881,554,2 416,106,508,152,2
+/content/dataset/OID/Dataset/train/Car/0f3e9392cdc84b02.jpg 0,120,426,417,2 37,48,922,636,2
+/content/dataset/OID/Dataset/train/Car/08e5e6a3f9ddb368.jpg 0,452,755,549,2 761,440,1023,701,2
+/content/dataset/OID/Dataset/train/Car/3857f7e8e89588d3.jpg 113,789,536,1000,2 0,805,75,1017,2 538,798,748,912,2 738,816,767,879,2
+/content/dataset/OID/Dataset/train/Car/583b43cfb0e5fb79.jpg 0,235,432,546,2
+/content/dataset/OID/Dataset/train/Car/10082d31af099ea8.jpg 0,104,71,259,2 61,83,984,647,2
+/content/dataset/OID/Dataset/train/Car/16fa8331c58fb41c.jpg 0,519,169,661,2 0,614,211,682,2 0,238,1023,622,2
+/content/dataset/OID/Dataset/train/Car/0ce872c5993bcd78.jpg 0,457,392,767,2 62,0,1009,727,2
+/content/dataset/OID/Dataset/train/Car/c14022a383fa21fa.jpg 200,129,315,183,2 233,136,442,235,2 476,161,709,251,2 810,141,970,245,2
+/content/dataset/OID/Dataset/train/Car/f7642631fe69cf73.jpg 114,193,977,547,2
+/content/dataset/OID/Dataset/train/Car/12bc90b7374f2882.jpg 720,270,890,454,2
+/content/dataset/OID/Dataset/train/Car/945970c29d6cb6dd.jpg 143,250,952,516,2 20,247,276,393,2
+/content/dataset/OID/Dataset/train/Car/ff24df0dde49ba87.jpg 166,458,822,668,2 277,431,320,448,2 285,438,364,460,2
+/content/dataset/OID/Dataset/train/Car/6c714d2401e77c1c.jpg 0,62,1023,504,2
+/content/dataset/OID/Dataset/train/Car/08db8b144f273c26.jpg 42,0,986,688,2
+/content/dataset/OID/Dataset/train/Car/2a2027e34aba6fab.jpg 0,0,1023,816,2
+/content/dataset/OID/Dataset/train/Car/e1742cb14c60c0cd.jpg 467,356,638,501,2
+/content/dataset/OID/Dataset/train/Car/09a9b6dce24e2a1c.jpg 460,335,917,599,2
+/content/dataset/OID/Dataset/train/Car/217abdce4e3bf878.jpg 37,227,963,639,2 86,180,138,220,2 110,174,176,224,2 152,179,255,225,2 414,188,559,241,2 649,164,922,282,2 849,180,1016,277,2 907,167,1023,230,2
+/content/dataset/OID/Dataset/train/Car/aa75e408541ce2e7.jpg 0,514,233,767,2 74,186,940,567,2 375,154,974,389,2 651,149,1023,339,2
+/content/dataset/OID/Dataset/train/Car/e41bbc3e9c37759d.jpg 205,148,354,229,2 658,115,732,162,2 661,122,704,169,2 881,116,898,152,2 893,110,952,185,2 914,103,1022,280,2
+/content/dataset/OID/Dataset/train/Car/7529423747ae3bd9.jpg 343,473,766,627,2
+/content/dataset/OID/Dataset/train/Car/d5b3077f5165abf2.jpg 32,170,857,463,2
+/content/dataset/OID/Dataset/train/Car/7086de7c1024bb6a.jpg 129,84,633,248,2
+/content/dataset/OID/Dataset/train/Car/a8c90fc4691b2a0d.jpg 53,63,954,508,2 0,109,40,193,2 2,114,137,240,2 247,135,376,154,2 436,137,611,166,2 650,104,1007,256,2 798,100,1023,247,2
+/content/dataset/OID/Dataset/train/Car/2a2e003247aa7187.jpg 0,449,136,560,2 419,428,462,471,2 696,431,727,456,2 790,432,842,484,2
+/content/dataset/OID/Dataset/train/Car/54f2d068821b950f.jpg 0,89,407,349,2 54,80,977,547,2 178,64,380,131,2 284,77,879,176,2 849,297,1023,682,2 875,92,1023,267,2
+/content/dataset/OID/Dataset/train/Car/6a80fb89005b312f.jpg 0,0,682,1023,2
+/content/dataset/OID/Dataset/train/Car/d1d46ad5e25317de.jpg 0,477,394,667,2 721,466,1022,667,2 776,465,864,507,2
+/content/dataset/OID/Dataset/train/Car/a4cd9dd5bc890523.jpg 355,302,611,457,2
+/content/dataset/OID/Dataset/train/Car/75d6d28f50984b4f.jpg 119,249,848,709,2
+/content/dataset/OID/Dataset/train/Car/c6d9d323d492e352.jpg 757,229,1009,624,2
+/content/dataset/OID/Dataset/train/Car/41d18145780b86e3.jpg 111,392,654,569,2
+/content/dataset/OID/Dataset/train/Car/e5055f7dc6a8d108.jpg 363,303,797,500,2
+/content/dataset/OID/Dataset/train/Car/72495806a2cc843d.jpg 835,238,1023,507,2
+/content/dataset/OID/Dataset/train/Car/a6cdc96ef7703dd2.jpg 915,297,1017,399,2 0,263,472,373,2
+/content/dataset/OID/Dataset/train/Car/4a9ba933e26102b9.jpg 0,580,85,711,2 4,577,524,759,2 395,581,698,686,2 964,591,1023,646,2
+/content/dataset/OID/Dataset/train/Car/c72fef7e6c2ea4e4.jpg 0,0,683,1022,2
+/content/dataset/OID/Dataset/train/Car/4237b8870e037670.jpg 0,576,10,588,2 12,574,35,588,2 62,574,94,606,2 83,574,238,664,2 97,579,124,597,2 301,567,555,686,2 936,598,988,641,2 1014,598,1023,635,2
+/content/dataset/OID/Dataset/train/Car/1e64bdfdc93742b6.jpg 0,372,353,575,2
+/content/dataset/OID/Dataset/train/Car/aa18c7b2bbe408f7.jpg 56,349,977,650,2
+/content/dataset/OID/Dataset/train/Car/44e69ad1abca4879.jpg 666,488,928,574,2
+/content/dataset/OID/Dataset/train/Car/2bc8d62982c831b7.jpg 350,284,583,366,2 350,471,584,544,2
+/content/dataset/OID/Dataset/train/Car/f2af365d87baef2d.jpg 0,43,381,288,2
+/content/dataset/OID/Dataset/train/Car/21a780c8279798d4.jpg 28,177,885,592,2 39,209,515,396,2
+/content/dataset/OID/Dataset/train/Car/3f2bebe3b0f07416.jpg 70,42,851,406,2
+/content/dataset/OID/Dataset/train/Car/fb442bc71980da15.jpg 12,202,314,482,2 0,247,30,336,2 0,206,215,284,2 263,214,1023,466,2
+/content/dataset/OID/Dataset/train/Car/52c597bd3d039812.jpg 221,503,337,578,2 8,481,192,550,2 428,492,463,519,2 661,490,755,581,2 714,492,867,599,2 872,513,1022,659,2 998,551,1022,682,2
+/content/dataset/OID/Dataset/train/Car/01a31151248def6e.jpg 339,281,837,501,2
+/content/dataset/OID/Dataset/train/Car/b6592f4fcdf29806.jpg 33,277,1024,774,2 327,373,528,475,2 806,359,1000,448,2
+/content/dataset/OID/Dataset/train/Car/f44919dcf7188c12.jpg 318,245,891,428,2
+/content/dataset/OID/Dataset/train/Car/60a5203e866ea14f.jpg 39,185,979,628,2 165,145,650,314,2 853,275,1023,686,2
+/content/dataset/OID/Dataset/train/Car/1aa00e8bf8ca3b0b.jpg 549,537,1023,612,2
+/content/dataset/OID/Dataset/train/Car/b5716e5a61273a1d.jpg 0,0,1023,857,2
+/content/dataset/OID/Dataset/train/Car/8069eb206856a8a5.jpg 42,382,250,540,2 323,393,500,539,2 550,402,886,480,2
+/content/dataset/OID/Dataset/train/Car/86bd4b37aa23676b.jpg 28,558,164,660,2 164,579,215,642,2
+/content/dataset/OID/Dataset/train/Car/4fd4d0c5460f63ed.jpg 202,0,1023,709,2
+/content/dataset/OID/Dataset/train/Car/b77190cd4741e2b5.jpg 21,40,1024,740,2
+/content/dataset/OID/Dataset/train/Car/8cdf906a105875f7.jpg 120,320,132,330,2 129,373,146,389,2 150,444,176,478,2
+/content/dataset/OID/Dataset/train/Car/1ed9cebe0c8ad61e.jpg 69,67,963,682,2 298,131,792,554,2
+/content/dataset/OID/Dataset/train/Car/2ca921a23fca35a2.jpg 0,560,106,737,2 405,554,420,567,2 446,545,460,561,2 475,445,1023,1005,2
+/content/dataset/OID/Dataset/train/Car/86676259f647059e.jpg 81,115,842,376,2
+/content/dataset/OID/Dataset/train/Car/318d50112d2a9694.jpg 380,325,765,521,2
+/content/dataset/OID/Dataset/train/Car/1d913a88c60e0815.jpg 211,266,676,497,2
+/content/dataset/OID/Dataset/train/Car/e486ac291b0f956c.jpg 0,0,1022,1022,2 0,704,1022,1022,2 665,256,1022,570,2 977,306,1022,414,2 985,301,1022,366,2
+/content/dataset/OID/Dataset/train/Car/e96b7ce5da21a285.jpg 7,596,150,683,2 176,598,478,683,2 516,632,792,683,2
+/content/dataset/OID/Dataset/train/Car/265a70021f9e2bb5.jpg 7,340,650,963,2
+/content/dataset/OID/Dataset/train/Car/d6b3fd19f247481b.jpg 1,272,968,753,2
+/content/dataset/OID/Dataset/train/Car/7a9ef61d515cb982.jpg 107,0,984,643,2
+/content/dataset/OID/Dataset/train/Car/cf69f2e91759cafb.jpg 137,265,689,586,2
+/content/dataset/OID/Dataset/train/Car/dc3dea49c4f3061d.jpg 75,130,986,646,2 0,122,195,342,2 675,186,908,314,2
+/content/dataset/OID/Dataset/train/Car/64a2c10aa9142e3a.jpg 0,436,120,520,2 97,458,220,525,2 124,445,211,478,2 192,466,312,526,2 300,448,417,533,2 439,485,768,639,2 572,440,636,492,2 646,457,693,499,2 732,465,792,508,2 815,473,883,520,2
+/content/dataset/OID/Dataset/train/Car/7cda5a9a7c228d03.jpg 120,368,169,408,2 736,348,825,391,2
+/content/dataset/OID/Dataset/train/Car/5f6bb16eb667f69f.jpg 225,295,845,616,2 807,371,931,469,2 942,398,965,432,2 970,403,997,430,2
+/content/dataset/OID/Dataset/train/Car/812880ff18c0ecc6.jpg 30,144,154,185,2
+/content/dataset/OID/Dataset/train/Car/e45e74ed9a134eb2.jpg 0,261,1023,511,2
+/content/dataset/OID/Dataset/train/Car/83d9140fc63774ce.jpg 0,0,1023,682,2
+/content/dataset/OID/Dataset/train/Car/0f811773e3278a30.jpg 277,904,526,1023,2 587,920,784,1020,2
+/content/dataset/OID/Dataset/train/Car/0efebd28f8bee1b3.jpg 460,378,487,401,2 524,378,547,405,2 543,379,597,433,2 683,385,749,453,2 733,366,1023,669,2
+/content/dataset/OID/Dataset/train/Car/b04254ed4c479cfa.jpg 853,93,1016,183,2 15,146,273,212,2 22,168,423,277,2 37,112,141,163,2 680,111,883,172,2
+/content/dataset/OID/Dataset/train/Car/08cf5c5ee2067e65.jpg 56,30,978,537,2
+/content/dataset/OID/Dataset/train/Car/98c5751816bd265c.jpg 17,252,513,504,2 0,273,26,308,2 0,291,70,447,2 39,279,113,318,2 526,284,607,319,2 570,272,861,508,2 776,292,796,315,2 901,284,1023,510,2 916,291,948,318,2
+/content/dataset/OID/Dataset/train/Car/1955ff20ec27e83a.jpg 0,262,206,630,2 75,83,877,650,2
+/content/dataset/OID/Dataset/train/Car/6389fc021352ef8f.jpg 448,120,896,579,2 0,222,106,266,2 0,194,341,450,2 48,166,581,505,2
+/content/dataset/OID/Dataset/train/Car/8f93a180780764f7.jpg 3,570,231,791,2 240,502,663,786,2 699,565,907,689,2
+/content/dataset/OID/Dataset/train/Car/a503dbac288e322d.jpg 0,462,155,536,2 39,426,139,456,2 750,517,776,541,2 810,484,952,553,2
+/content/dataset/OID/Dataset/train/Car/bdea44bf3ed33b66.jpg 822,422,996,494,2 20,427,160,489,2 81,428,190,483,2 120,433,284,505,2 601,417,652,478,2 702,428,835,483,2
+/content/dataset/OID/Dataset/train/Car/fcadb1720db61301.jpg 29,540,401,821,2 430,511,1023,768,2
+/content/dataset/OID/Dataset/train/Car/4770b32e35b862fb.jpg 96,495,330,586,2 309,502,428,568,2 855,501,1009,557,2
+/content/dataset/OID/Dataset/train/Car/93887caad6e93378.jpg 84,225,416,359,2 98,264,574,381,2 99,262,883,517,2 406,229,697,291,2
+/content/dataset/OID/Dataset/train/Car/1aaf442a65d67dda.jpg 0,575,24,636,2 23,560,217,669,2 208,560,470,699,2 570,602,1023,767,2
+/content/dataset/OID/Dataset/train/Car/8e949a1965f3c23a.jpg 0,576,117,642,2 666,583,869,660,2 868,592,1021,656,2
+/content/dataset/OID/Dataset/train/Car/2fa9694192d69151.jpg 0,35,159,176,2 72,32,954,788,2 199,50,263,96,2
+/content/dataset/OID/Dataset/train/Car/d9659592eb4b1c47.jpg 0,248,962,699,2 68,232,76,239,2 76,235,90,245,2 99,240,114,248,2 265,239,289,260,2 328,235,986,307,2
+/content/dataset/OID/Dataset/train/Car/7194ba9a1be02dfa.jpg 716,342,972,575,2
+/content/dataset/OID/Dataset/train/Car/fd7f3f8fb4475065.jpg 10,90,970,700,2 581,97,1023,441,2
+/content/dataset/OID/Dataset/train/Car/67a6aed7f93286df.jpg 0,3,818,1023,2 447,546,530,583,2 637,556,655,572,2 660,556,685,569,2
+/content/dataset/OID/Dataset/train/Car/5b82b7b7d8495f82.jpg 103,608,327,693,2 0,616,90,680,2 10,588,125,627,2
+/content/dataset/OID/Dataset/train/Car/3ca74c71b5b9e4fe.jpg 0,263,682,1022,2
+/content/dataset/OID/Dataset/train/Car/e87681bead160df9.jpg 1,439,71,487,2 61,437,129,481,2 143,435,208,481,2 250,424,312,458,2 295,424,337,459,2 328,418,385,459,2 820,424,1022,766,2
+/content/dataset/OID/Dataset/train/Car/73ca6f798f10d7e0.jpg 0,0,1021,572,2
+/content/dataset/OID/Dataset/train/Car/578d5ffc9ba865f4.jpg 384,779,871,998,2 96,776,319,881,2 497,737,596,814,2
+/content/dataset/OID/Dataset/train/Car/d7e447134c736297.jpg 3,564,156,655,2 153,560,283,626,2 269,542,369,608,2 362,554,440,600,2 432,553,489,589,2 484,549,533,582,2 530,546,559,574,2 554,544,579,573,2 577,541,610,564,2 581,550,695,630,2 609,541,623,554,2 620,539,638,553,2 639,548,705,594,2 640,541,661,551,2 661,539,668,549,2 669,537,677,546,2 693,537,712,544,2 694,546,730,588,2 712,542,750,579,2 728,535,753,567,2 750,537,760,559,2 890,525,922,538,2
+/content/dataset/OID/Dataset/train/Car/1e37898e8e2e0342.jpg 42,135,1008,479,2
+/content/dataset/OID/Dataset/train/Car/20f9764a055d3e46.jpg 0,0,1023,613,2
+/content/dataset/OID/Dataset/train/Car/46ce5337987fb3d6.jpg 65,177,949,518,2 36,194,88,236,2 271,191,304,207,2 603,157,844,287,2 830,194,926,267,2 865,204,1023,290,2 918,215,977,236,2
+/content/dataset/OID/Dataset/train/Car/e05c9a209ae02928.jpg 563,408,903,574,2 894,408,1023,568,2
+/content/dataset/OID/Dataset/train/Car/7b9393d43e960445.jpg 0,105,792,595,2
+/content/dataset/OID/Dataset/train/Car/e8abe1399c02c6de.jpg 38,44,1006,334,2
+/content/dataset/OID/Dataset/train/Car/068868f40fb6dbec.jpg 187,510,343,612,2 0,411,110,512,2 721,586,935,679,2
+/content/dataset/OID/Dataset/train/Car/e88ca42fa5dd6a20.jpg 85,223,236,332,2 0,205,31,253,2 0,250,163,437,2 39,202,71,245,2 67,193,112,221,2 239,210,300,262,2 263,186,327,249,2
+/content/dataset/OID/Dataset/train/Car/1eb1cb8836b1e565.jpg 396,392,867,534,2 922,282,1023,341,2
+/content/dataset/OID/Dataset/train/Car/735ab891f82ce614.jpg 69,126,968,565,2
+/content/dataset/OID/Dataset/train/Car/83185b8445cafae8.jpg 696,273,750,311,2 748,280,830,333,2 826,276,979,359,2
+/content/dataset/OID/Dataset/train/Car/3e5bcf529a1a6ffe.jpg 0,163,821,517,2 508,139,979,278,2 959,440,1023,672,2
+/content/dataset/OID/Dataset/train/Car/f24485c1bc0b4785.jpg 0,258,362,604,2 83,321,888,673,2 832,307,1023,537,2 954,289,1023,357,2
+/content/dataset/OID/Dataset/train/Car/3bdb09b5a03c6746.jpg 435,454,807,583,2 490,442,754,497,2 785,447,1023,562,2 931,480,1023,581,2
+/content/dataset/OID/Dataset/train/Car/c3b63722e3fdfe89.jpg 35,122,1004,633,2 279,63,555,200,2 677,79,810,133,2 865,73,947,122,2
+/content/dataset/OID/Dataset/train/Car/63c17f42f47707e2.jpg 8,507,394,661,2 908,492,974,530,2 947,478,1008,524,2
+/content/dataset/OID/Dataset/train/Car/511721a8d9fb738e.jpg 13,479,294,588,2
+/content/dataset/OID/Dataset/train/Car/38184aedae7d35ab.jpg 0,55,1023,669,2
+/content/dataset/OID/Dataset/train/Car/c26c1d253668cf92.jpg 0,0,1023,569,2
+/content/dataset/OID/Dataset/train/Car/31152527c2f28dd6.jpg 430,675,608,755,2 618,668,885,766,2 818,665,930,734,2 909,659,1018,735,2 956,654,1023,721,2
+/content/dataset/OID/Dataset/train/Car/a467a9209e8ea07d.jpg 227,540,376,649,2 211,513,306,605,2 377,535,481,609,2 467,542,510,566,2 506,540,533,566,2
+/content/dataset/OID/Dataset/train/Car/0bba8bfd51c398d6.jpg 0,258,207,331,2 28,228,1023,764,2 227,241,462,339,2 410,293,507,421,2
+/content/dataset/OID/Dataset/train/Car/2d2137b7d34a1802.jpg 520,376,650,483,2
+/content/dataset/OID/Dataset/train/Car/42a39edd78941d4d.jpg 177,242,929,609,2
+/content/dataset/OID/Dataset/train/Car/fab50a7d3db28631.jpg 0,272,121,406,2 47,275,962,598,2 278,259,598,361,2 785,259,913,310,2 868,253,925,324,2 918,235,1023,337,2
+/content/dataset/OID/Dataset/train/Car/594454bf3cf797e0.jpg 104,154,948,592,2 68,80,87,88,2 199,80,236,90,2 286,87,1023,237,2 523,78,602,103,2
+/content/dataset/OID/Dataset/train/Car/6c1452c98c1fe9b6.jpg 0,590,195,682,2 195,606,440,682,2 933,611,986,661,2 935,597,970,608,2
+/content/dataset/OID/Dataset/train/Car/2b06c72c2bff4673.jpg 134,447,247,560,2 219,404,415,592,2 500,428,563,471,2 582,433,616,466,2 643,430,700,466,2
+/content/dataset/OID/Dataset/train/Car/eb230382182d6256.jpg 37,678,486,969,2
+/content/dataset/OID/Dataset/train/Car/039abf153a9b3d82.jpg 10,377,206,485,2 12,386,35,427,2 147,381,924,461,2 901,446,1022,653,2
+/content/dataset/OID/Dataset/train/Car/7b5c7f0ca37df988.jpg 307,78,723,439,2
+/content/dataset/OID/Dataset/train/Car/f00ec0093e986e99.jpg 208,144,821,554,2 139,150,318,314,2 730,188,915,362,2 826,186,873,202,2 863,200,937,296,2 952,192,982,200,2
+/content/dataset/OID/Dataset/train/Car/80072bd480493fde.jpg 0,90,147,183,2 0,74,568,447,2 124,67,984,679,2 408,108,593,186,2 938,135,1023,237,2
+/content/dataset/OID/Dataset/train/Car/bca341584bfecde6.jpg 672,281,801,391,2 682,258,757,291,2 757,260,798,283,2
+/content/dataset/OID/Dataset/train/Car/ba51c869d2c374aa.jpg 163,130,892,404,2
+/content/dataset/OID/Dataset/train/Car/5b9c91b3fc149975.jpg 77,573,108,594,2 103,570,138,600,2 356,570,519,669,2 445,590,635,687,2 615,604,789,732,2 768,571,1023,759,2
+/content/dataset/OID/Dataset/train/Car/edfc3cffdb98eb8d.jpg 257,779,368,835,2
+/content/dataset/OID/Dataset/train/Car/1318720d76475c68.jpg 52,44,965,604,2
+/content/dataset/OID/Dataset/train/Car/0a142376eea4ddb4.jpg 179,120,849,629,2
+/content/dataset/OID/Dataset/train/Car/b7646e4b35296969.jpg 40,331,718,573,2
+/content/dataset/OID/Dataset/train/Car/0d5659fe69bd41de.jpg 86,152,607,833,2
+/content/dataset/OID/Dataset/train/Car/4c32dafa71462d78.jpg 0,0,1023,622,2 370,240,411,261,2 423,245,460,258,2
+/content/dataset/OID/Dataset/train/Car/cbf9affb5350779b.jpg 0,474,664,645,2 547,401,611,504,2 672,353,910,573,2 814,366,1023,631,2
+/content/dataset/OID/Dataset/train/Car/56d337421ee44e57.jpg 0,142,268,308,2 69,63,680,406,2
+/content/dataset/OID/Dataset/train/Car/9f7ec0b0084e8d21.jpg 76,227,250,258,2 767,208,1023,303,2
+/content/dataset/OID/Dataset/train/Car/82a275845e488aad.jpg 16,378,291,504,2 487,387,837,543,2
+/content/dataset/OID/Dataset/train/Car/4a4c41525eed530a.jpg 56,48,949,714,2
+/content/dataset/OID/Dataset/train/Car/659fc8e667247074.jpg 154,269,882,645,2
+/content/dataset/OID/Dataset/train/Car/71af6855f7b56a5c.jpg 407,101,805,259,2
+/content/dataset/OID/Dataset/train/Car/f06c429853534621.jpg 70,0,912,725,2 0,0,96,197,2 699,516,1023,764,2
+/content/dataset/OID/Dataset/train/Car/00770833020fcd86.jpg 492,283,589,424,2
+/content/dataset/OID/Dataset/train/Car/26d8599283ebb8a8.jpg 103,163,977,593,2 0,149,102,206,2 164,165,292,233,2 392,166,600,233,2 537,155,1019,337,2 919,132,1022,189,2
+/content/dataset/OID/Dataset/train/Car/dd102f74ba941c0b.jpg 72,131,568,533,2
+/content/dataset/OID/Dataset/train/Car/4b2314c9609475ec.jpg 0,98,1023,647,2
+/content/dataset/OID/Dataset/train/Car/15436e03d9aa14ea.jpg 54,196,953,826,2
+/content/dataset/OID/Dataset/train/Car/5bae40973ecdd66f.jpg 0,224,72,259,2 97,186,890,597,2
+/content/dataset/OID/Dataset/train/Car/def2dd47014fddf1.jpg 431,301,992,627,2
+/content/dataset/OID/Dataset/train/Car/f9d9ed7282fb5fdf.jpg 113,359,248,467,2 140,328,242,395,2 161,291,193,323,2 190,281,221,308,2 263,332,290,350,2 579,303,742,474,2
+/content/dataset/OID/Dataset/train/Car/3b2f8e0c17dcac8b.jpg 540,451,706,534,2 300,282,353,323,2 375,286,433,329,2 499,312,581,362,2 602,337,694,389,2 748,378,829,435,2
+/content/dataset/OID/Dataset/train/Car/dd99a7a97ded0547.jpg 0,564,59,594,2 243,569,280,576,2 389,574,404,585,2 530,579,545,590,2 871,585,906,601,2
+/content/dataset/OID/Dataset/train/Car/8f37d9c8ce093934.jpg 106,213,912,635,2 471,170,1023,431,2 808,129,1023,222,2
+/content/dataset/OID/Dataset/train/Car/06966afb902e652d.jpg 396,359,614,486,2 808,308,824,319,2
+/content/dataset/OID/Dataset/train/Car/4dc08da6fefe5c47.jpg 0,0,767,1023,2 412,441,442,464,2 439,441,507,518,2 577,460,767,588,2
+/content/dataset/OID/Dataset/train/Car/5a7b53a2c0545e17.jpg 2,175,186,356,2
+/content/dataset/OID/Dataset/train/Car/793beab60504d856.jpg 604,51,730,112,2 275,60,286,76,2 322,53,372,90,2 364,55,401,84,2 419,43,539,144,2 504,56,595,124,2
+/content/dataset/OID/Dataset/train/Car/b0188e800dc125b2.jpg 368,628,509,700,2 661,620,832,698,2 837,625,960,685,2 877,635,1020,709,2 993,689,1023,747,2
+/content/dataset/OID/Dataset/train/Car/0295dd8c21b0de26.jpg 406,313,1022,556,2
+/content/dataset/OID/Dataset/train/Car/16a25b0f77d43794.jpg 97,111,889,591,2 476,67,548,89,2 633,67,691,89,2 688,65,710,86,2 723,63,814,92,2 790,68,859,94,2 841,70,892,91,2 889,63,934,89,2 934,67,966,89,2 964,65,1011,80,2 966,73,1022,100,2
+/content/dataset/OID/Dataset/train/Car/6f08cdb5462dae20.jpg 105,259,851,580,2 579,155,1023,302,2 733,159,1023,219,2
+/content/dataset/OID/Dataset/train/Car/6e28830b9223379f.jpg 3,719,731,999,2
+/content/dataset/OID/Dataset/train/Car/d94f371ab1b96ae4.jpg 581,356,592,369,2
+/content/dataset/OID/Dataset/train/Car/ae07d664bce33d34.jpg 162,346,728,754,2 0,293,207,611,2 144,322,318,462,2 249,301,367,364,2 328,305,419,355,2 360,303,419,338,2 410,305,462,332,2 483,298,503,326,2 560,314,642,370,2
+/content/dataset/OID/Dataset/train/Car/f5e874c6f27247b3.jpg 15,406,158,516,2 186,399,302,485,2 336,375,473,477,2 456,385,593,472,2 581,385,698,456,2 652,378,803,446,2
+/content/dataset/OID/Dataset/train/Car/e2601dadc04d68fd.jpg 1,161,79,313,2 23,158,978,689,2 48,149,140,218,2 429,138,570,195,2 544,129,753,177,2 547,161,1023,433,2 814,137,925,207,2 869,145,1023,255,2
+/content/dataset/OID/Dataset/train/Car/56cda7ee10a0a298.jpg 891,364,977,413,2
+/content/dataset/OID/Dataset/train/Car/dfa3aa48bd5994f8.jpg 113,197,925,567,2 0,152,119,232,2 53,138,151,197,2 130,160,241,202,2 135,164,336,240,2 222,164,414,271,2 705,515,1023,767,2 840,159,1023,291,2
+/content/dataset/OID/Dataset/train/Car/37e06f31c9f49d9f.jpg 0,0,1023,649,2
+/content/dataset/OID/Dataset/train/Car/58a6b3f560434517.jpg 682,338,904,442,2 923,334,1023,410,2
+/content/dataset/OID/Dataset/train/Car/337bc9cf91ceaff7.jpg 0,733,290,1020,2
+/content/dataset/OID/Dataset/train/Car/6663822b1ee66be5.jpg 104,542,232,650,2 270,587,295,595,2 297,581,323,600,2 343,571,375,599,2 391,577,425,608,2
+/content/dataset/OID/Dataset/train/Car/eb0278e09ba3eb74.jpg 245,244,552,423,2 815,253,836,304,2 827,252,852,288,2 852,257,872,285,2 962,241,987,261,2
+/content/dataset/OID/Dataset/train/Car/59cbe66635058ed9.jpg 0,68,773,355,2
+/content/dataset/OID/Dataset/train/Car/767b2ef682b10682.jpg 279,266,369,349,2
+/content/dataset/OID/Dataset/train/Car/66c6f19735dcbdd1.jpg 302,776,501,898,2
+/content/dataset/OID/Dataset/train/Car/6c0d4c43d5feba0a.jpg 402,489,585,552,2 715,534,744,561,2 746,531,775,559,2 780,531,793,559,2 903,547,946,582,2
+/content/dataset/OID/Dataset/train/Car/270fafe73e56b643.jpg 55,219,982,895,2
+/content/dataset/OID/Dataset/train/Car/c828170854c679a4.jpg 0,480,190,712,2 0,662,1022,767,2 663,450,759,528,2
+/content/dataset/OID/Dataset/train/Car/0ede8c0b27c50fb3.jpg 547,228,938,577,2 136,320,455,568,2 230,300,494,530,2 426,310,527,490,2 482,320,596,452,2 890,328,1002,389,2 907,346,933,394,2
+/content/dataset/OID/Dataset/train/Car/b59ad3918e05f0c1.jpg 16,531,108,621,2 67,536,273,644,2 517,525,768,643,2 732,544,857,625,2 848,538,917,573,2
+/content/dataset/OID/Dataset/train/Car/e5b3716fc7d09c63.jpg 39,357,570,515,2
+/content/dataset/OID/Dataset/train/Car/19e71938dbb56eff.jpg 0,601,723,764,2
+/content/dataset/OID/Dataset/train/Car/be253e380b61dc72.jpg 0,0,1023,767,2 0,33,1023,218,2
+/content/dataset/OID/Dataset/train/Car/354ea4d5a9b2e8d4.jpg 213,354,387,436,2
+/content/dataset/OID/Dataset/train/Car/dc30a3a2cce76202.jpg 67,124,869,346,2 76,198,165,339,2 115,173,190,199,2 396,166,620,277,2 761,181,843,284,2 777,182,856,238,2
+/content/dataset/OID/Dataset/train/Car/e3ef230dbe3daa6a.jpg 275,423,396,499,2
+/content/dataset/OID/Dataset/train/Car/b6833896765ab166.jpg 120,499,511,960,2
+/content/dataset/OID/Dataset/train/Car/ebfbf3801172fa1e.jpg 72,77,1015,681,2
+/content/dataset/OID/Dataset/train/Car/7dd8e57a5109a2b3.jpg 128,181,919,673,2 743,259,803,302,2 846,252,880,296,2 898,253,926,293,2 927,262,1023,331,2
+/content/dataset/OID/Dataset/train/Car/886324d15a80a306.jpg 0,0,1023,682,2
+/content/dataset/OID/Dataset/train/Car/5151ff28e222fe79.jpg 338,139,535,241,2 325,229,615,535,2 676,208,924,460,2
+/content/dataset/OID/Dataset/train/Car/5a971fcfbddaa709.jpg 238,7,1019,654,2
+/content/dataset/OID/Dataset/train/Car/372991334c392811.jpg 0,325,282,667,2
+/content/dataset/OID/Dataset/train/Car/9e9dca20d3c263f8.jpg 621,543,891,739,2
+/content/dataset/OID/Dataset/train/Car/46b9350b10a47175.jpg 0,177,52,236,2 684,204,922,299,2
+/content/dataset/OID/Dataset/train/Car/e30d0e44ee3b5b54.jpg 51,262,655,876,2
+/content/dataset/OID/Dataset/train/Car/5898b3902efc9188.jpg 608,0,1023,538,2
+/content/dataset/OID/Dataset/train/Car/b80226d8297fcb95.jpg 62,123,997,594,2 860,111,1023,333,2
+/content/dataset/OID/Dataset/train/Car/cdfa55e76f46f84f.jpg 40,92,986,629,2
+/content/dataset/OID/Dataset/train/Car/4f966c5e515c6a91.jpg 110,285,897,556,2 183,232,225,260,2 241,238,314,281,2 305,221,428,292,2 801,238,917,298,2 917,252,981,298,2 983,258,1023,290,2
+/content/dataset/OID/Dataset/train/Car/b2be166d77566f34.jpg 25,73,563,953,2
+/content/dataset/OID/Dataset/train/Car/a23501d4e8566a95.jpg 401,604,457,646,2 504,614,536,651,2
+/content/dataset/OID/Dataset/train/Car/26269ff7628c22b4.jpg 35,34,996,753,2
+/content/dataset/OID/Dataset/train/Car/b1aaa59e712d50d3.jpg 594,696,760,792,2 355,720,446,765,2 481,730,584,774,2
+/content/dataset/OID/Dataset/train/Car/fdd100d0a6d87ca4.jpg 67,287,873,546,2
+/content/dataset/OID/Dataset/train/Car/ba2a61a90895a133.jpg 251,151,609,276,2 341,159,503,204,2 351,140,492,172,2
+/content/dataset/OID/Dataset/train/Car/1a7eb6d71b2d1668.jpg 173,136,968,538,2
+/content/dataset/OID/Dataset/train/Car/7ed8e0e5b6e49101.jpg 64,903,289,995,2
+/content/dataset/OID/Dataset/train/Car/68c90397d36bdff1.jpg 0,348,355,705,2
+/content/dataset/OID/Dataset/train/Car/1a6dcc082ef2bb2f.jpg 468,510,882,767,2
+/content/dataset/OID/Dataset/train/Car/3d7baccb24acfd02.jpg 68,65,952,454,2 801,21,972,95,2 805,28,1008,103,2 828,31,1023,144,2
+/content/dataset/OID/Dataset/train/Car/cf6a9b4c387d5ee4.jpg 117,423,936,672,2
+/content/dataset/OID/Dataset/train/Car/b0d422949c96b1cd.jpg 313,412,529,559,2 492,415,548,474,2 531,408,619,497,2 558,424,678,515,2 622,393,727,464,2 674,408,845,548,2
+/content/dataset/OID/Dataset/train/Car/39ac41c4f288d9f2.jpg 355,683,421,792,2 234,709,313,817,2 298,587,336,627,2 348,583,392,622,2 546,615,611,660,2
+/content/dataset/OID/Dataset/train/Car/42880c528402aeb3.jpg 46,62,1023,603,2
+/content/dataset/OID/Dataset/train/Car/e6c8294c310ae48b.jpg 0,186,23,208,2 0,215,42,239,2 62,151,1023,629,2 127,194,183,206,2
+/content/dataset/OID/Dataset/train/Car/5e8bb39fc354cc84.jpg 456,527,556,604,2 777,530,970,609,2
+/content/dataset/OID/Dataset/train/Car/c783f0a101735140.jpg 6,54,963,638,2 591,144,1023,501,2 846,186,1016,250,2 951,214,1020,242,2
+/content/dataset/OID/Dataset/train/Car/da381f1c596af437.jpg 10,452,133,519,2 0,442,89,472,2 224,443,295,476,2 291,443,388,483,2 533,435,650,476,2 630,433,680,458,2 666,431,773,487,2 766,421,826,456,2 855,424,945,464,2 913,417,1023,462,2
+/content/dataset/OID/Dataset/train/Car/5a9a711a9521f416.jpg 735,245,940,332,2 778,277,1023,680,2 920,258,1023,282,2
+/content/dataset/OID/Dataset/train/Car/c9b054f3c9b651f8.jpg 401,478,433,519,2 433,472,485,509,2 656,468,911,547,2
+/content/dataset/OID/Dataset/train/Car/cf066edc7d5c5dbb.jpg 34,177,809,579,2 401,188,883,402,2
+/content/dataset/OID/Dataset/train/Car/3af0daaeb21341d4.jpg 344,502,569,640,2 0,467,1023,682,2 280,413,380,452,2 386,388,423,413,2 427,407,500,451,2 440,392,491,420,2 524,419,613,454,2
+/content/dataset/OID/Dataset/train/Car/4a6b35d96b7ccd9b.jpg 394,305,503,387,2
+/content/dataset/OID/Dataset/train/Car/3ab2e94881ae053f.jpg 1270,2475,1967,2810,2 1905,2480,2340,2707,2 3310,2495,3967,2907,2
+/content/dataset/OID/Dataset/train/Car/7e67a20e744c8092.jpg 0,288,847,522,2
+/content/dataset/OID/Dataset/train/Car/ed3c2cb3879d39c9.jpg 0,449,149,625,2 22,412,128,482,2 64,408,193,501,2
+/content/dataset/OID/Dataset/train/Car/09c0c57ef80c13de.jpg 78,291,904,614,2
+/content/dataset/OID/Dataset/train/Car/61aaa34e813364aa.jpg 782,292,1023,537,2
+/content/dataset/OID/Dataset/train/Car/dfffc9534ca647a7.jpg 360,546,554,634,2 0,523,192,631,2 936,542,1023,598,2
+/content/dataset/OID/Dataset/train/Car/6eeb021ea3684a21.jpg 25,152,978,662,2 0,158,286,275,2
+/content/dataset/OID/Dataset/train/Car/a2ef4b6a923fcc98.jpg 174,188,245,227,2 237,184,293,223,2 296,177,362,213,2 364,142,876,216,2 981,126,1023,154,2
+/content/dataset/OID/Dataset/train/Car/445c4c329e7dc0c4.jpg 0,0,1023,810,2
+/content/dataset/OID/Dataset/train/Car/59b3d1ec5975cec6.jpg 47,511,94,528,2 94,510,132,526,2 144,506,262,527,2 264,562,484,633,2 264,506,282,518,2 668,518,750,548,2 738,519,775,547,2 863,557,1023,623,2
+/content/dataset/OID/Dataset/train/Car/da46377fd50b6b48.jpg 197,39,348,165,2 337,84,384,140,2 407,55,613,153,2 455,32,766,209,2
+/content/dataset/OID/Dataset/train/Car/1ee82a0c47297cd6.jpg 56,232,156,318,2 385,193,666,256,2 615,208,784,245,2 714,219,837,249,2 783,222,863,248,2
+/content/dataset/OID/Dataset/train/Car/c28ac9e638e8e745.jpg 178,330,192,342,2 194,331,204,341,2 208,331,218,341,2 214,323,949,485,2 237,332,743,448,2 725,366,947,483,2
+/content/dataset/OID/Dataset/train/Car/acc90456990a92f4.jpg 367,124,1016,423,2
+/content/dataset/OID/Dataset/train/Car/456806801936d8de.jpg 15,167,654,1022,2
+/content/dataset/OID/Dataset/train/Car/ade97621a816202c.jpg 0,75,1023,718,2
+/content/dataset/OID/Dataset/train/Car/e3bbe2c1efe594a6.jpg 0,90,1023,682,2
+/content/dataset/OID/Dataset/train/Car/79064310481bd8a8.jpg 39,133,987,426,2 950,36,1022,254,2
+/content/dataset/OID/Dataset/train/Car/5ba5bd7015d462a8.jpg 0,8,1022,607,2
+/content/dataset/OID/Dataset/train/Car/03083cc08e7a7652.jpg 935,533,1023,585,2
+/content/dataset/OID/Dataset/train/Car/7c76f4d75550f6a3.jpg 105,299,928,664,2
+/content/dataset/OID/Dataset/train/Car/dd93a0ff56209e67.jpg 198,497,478,588,2 67,471,96,490,2 84,473,203,509,2 913,477,1000,506,2 930,492,1007,526,2 946,483,1023,563,2
+/content/dataset/OID/Dataset/train/Car/e525e869c5500752.jpg 272,398,907,607,2
+/content/dataset/OID/Dataset/train/Car/98119a6714b557eb.jpg 72,536,304,629,2 163,527,307,622,2 170,499,382,617,2 657,542,935,761,2 800,534,963,700,2 805,501,1023,585,2 913,544,1023,646,2
+/content/dataset/OID/Dataset/train/Car/c863745ab8e955e9.jpg 0,476,344,767,2
+/content/dataset/OID/Dataset/train/Car/ecdddae514d0d15d.jpg 0,182,1023,645,2
+/content/dataset/OID/Dataset/train/Car/bf031ac1fbbe25fd.jpg 0,786,155,922,2 466,793,1023,996,2
+/content/dataset/OID/Dataset/train/Car/398da6d42829a2af.jpg 321,415,944,679,2
+/content/dataset/OID/Dataset/train/Car/4822e0dcca5ee1c7.jpg 817,561,1023,814,2
+/content/dataset/OID/Dataset/train/Car/1a4af1f275ee4c1c.jpg 44,336,787,532,2
+/content/dataset/OID/Dataset/train/Car/a15feae2e939a21c.jpg 853,0,1023,177,2
+/content/dataset/OID/Dataset/train/Car/4d8c76de5eaca31e.jpg 120,206,892,632,2
+/content/dataset/OID/Dataset/train/Car/f36dbdeac850eebb.jpg 446,418,682,477,2 587,195,708,220,2
+/content/dataset/OID/Dataset/train/Car/02a5d4c42798a93d.jpg 117,0,1023,716,2
+/content/dataset/OID/Dataset/train/Car/5724097f1fe8fdc4.jpg 58,44,911,334,2 912,66,960,120,2 928,66,960,98,2 935,58,1023,131,2 991,90,1023,120,2
+/content/dataset/OID/Dataset/train/Car/b71ed973814c4ce1.jpg 346,156,676,440,2
+/content/dataset/OID/Dataset/train/Car/0bb0243e342a5ae5.jpg 59,219,934,632,2 0,209,87,238,2 0,218,90,400,2 0,190,144,207,2 58,186,430,404,2 245,167,502,253,2
+/content/dataset/OID/Dataset/train/Car/979cc6df3ead7844.jpg 89,558,345,657,2
+/content/dataset/OID/Dataset/train/Car/43f7cb2fc73bf7f7.jpg 812,190,1023,360,2
+/content/dataset/OID/Dataset/train/Car/f85a1282c460ecf0.jpg 108,452,434,574,2
+/content/dataset/OID/Dataset/train/Car/efbfd3c575d8336d.jpg 51,60,971,958,2
+/content/dataset/OID/Dataset/train/Car/9958c1c10811fa87.jpg 54,550,115,583,2 55,534,63,549,2 60,530,76,552,2 110,548,176,585,2 164,543,203,580,2
+/content/dataset/OID/Dataset/train/Car/9ea17f1010d9df68.jpg 0,458,683,767,2
+/content/dataset/OID/Dataset/train/Car/3c5e2d4b55e345da.jpg 0,163,231,475,2 121,112,842,710,2 179,179,393,218,2
+/content/dataset/OID/Dataset/train/Car/7bd3f443ac5000c8.jpg 1,72,152,177,2 573,158,958,369,2
+/content/dataset/OID/Dataset/train/Car/5ff7e2d1fa24ae04.jpg 83,39,951,768,2 678,80,981,298,2
+/content/dataset/OID/Dataset/train/Car/373a0accf3e73622.jpg 619,355,1023,686,2
+/content/dataset/OID/Dataset/train/Car/daf6871be46fca20.jpg 165,171,212,188,2 166,181,325,285,2 170,171,218,188,2 175,174,233,200,2 190,174,254,197,2 192,197,447,284,2 817,172,1023,277,2
+/content/dataset/OID/Dataset/train/Car/454c68cc9d88d7ef.jpg 0,0,396,351,2 370,0,1023,682,2
+/content/dataset/OID/Dataset/train/green/13b30e89ac221ee2.jpg 121,440,141,464,3 179,444,191,474,3 184,414,192,435,3 191,455,196,474,3 219,83,265,129,3 229,304,256,350,3 277,85,321,129,3 362,359,377,396,3 403,337,422,395,3 456,437,464,460,3 494,358,512,395,3 498,444,504,461,3 590,402,602,427,3 640,453,645,472,3 647,453,652,471,3 668,432,678,453,3 762,319,813,361,3 793,218,832,305,3 824,319,875,362,3
+/content/dataset/OID/Dataset/train/green/3bfc0c91e6fcb5a5.jpg 344,563,386,643,3 350,654,389,710,3 402,654,430,710,3
+/content/dataset/OID/Dataset/train/green/191ffdbcf12d5351.jpg 184,200,227,318,3 248,153,297,305,3 304,153,355,302,3 332,201,371,330,3 382,255,412,315,3 524,260,561,352,3 562,305,587,348,3
+/content/dataset/OID/Dataset/train/green/8c75e2bc270dfafb.jpg 231,298,250,340,3 337,310,352,348,3 400,444,413,460,3 713,287,734,337,3 833,262,859,315,3 977,235,1011,297,3
+/content/dataset/OID/Dataset/train/green/5d35b91f9c66868f.jpg 698,146,744,224,3 735,158,765,237,3 749,136,795,215,3 829,372,855,414,3 853,370,876,410,3
+/content/dataset/OID/Dataset/train/green/81dd8a01bf6041f8.jpg 81,0,311,469,3 680,475,791,689,3
+/content/dataset/OID/Dataset/train/green/06108ddacf8b9258.jpg 19,309,44,364,3 91,161,115,218,3 421,182,449,241,3 789,0,853,118,3 945,311,968,362,3 989,303,1016,362,3
+/content/dataset/OID/Dataset/train/green/3af7e29161a7f64d.jpg 5,522,17,545,3 220,146,304,298,3 293,104,378,331,3 387,459,420,521,3
+/content/dataset/OID/Dataset/train/green/02943ab08011a32d.jpg 273,267,399,507,3 395,366,431,454,3 450,440,499,511,3
+/content/dataset/OID/Dataset/train/green/c8310f91b1f702a7.jpg 320,167,337,225,3 401,183,418,217,3 411,267,423,295,3 414,302,422,319,3 430,185,449,220,3 579,87,632,190,3 592,67,642,180,3 656,269,670,291,3 659,295,667,309,3 933,265,937,286,3 937,264,951,288,3
+/content/dataset/OID/Dataset/train/green/1091c3ef7d32018f.jpg 103,0,682,850,3
+/content/dataset/OID/Dataset/train/green/b649a680a6b1c0dd.jpg 950,10,1023,174,3 954,0,1023,171,3
+/content/dataset/OID/Dataset/train/green/94a95d87019646a3.jpg 230,192,423,515,3
+/content/dataset/OID/Dataset/train/green/715d081143090c37.jpg 266,53,325,170,3 638,295,684,411,3 679,450,689,491,3 692,278,744,394,3
+/content/dataset/OID/Dataset/train/green/afbf14dc15c1b8b8.jpg 165,330,949,705,3
+/content/dataset/OID/Dataset/train/green/76e6f0615a4a89c7.jpg 24,330,39,358,3 44,373,56,395,3 143,389,158,433,3 279,263,295,308,3 514,44,556,143,3 685,410,698,429,3 901,318,921,365,3 908,302,955,402,3
+/content/dataset/OID/Dataset/train/green/0afce94eefb73a41.jpg 33,744,242,956,3 451,109,629,627,3
+/content/dataset/OID/Dataset/train/green/a5b2a5fc0a92d08f.jpg 599,407,744,573,3 733,395,820,574,3
+/content/dataset/OID/Dataset/train/green/fd34719760e627a5.jpg 235,799,276,870,3 900,311,982,475,3
+/content/dataset/OID/Dataset/train/green/f23df0bc1f78df75.jpg 50,375,314,817,3
+/content/dataset/OID/Dataset/train/green/f1ca1eb9fa98e60a.jpg 81,528,101,563,3 345,545,355,561,3 351,538,365,560,3 378,530,397,568,3 495,1,700,247,3 569,553,580,579,3
+/content/dataset/OID/Dataset/train/green/61bd7b8f76f84387.jpg 108,0,171,69,3 282,0,339,109,3 494,48,545,156,3 664,97,703,188,3 761,372,797,403,3
+/content/dataset/OID/Dataset/train/green/2c887bd9879fb521.jpg 72,195,938,607,3
+/content/dataset/OID/Dataset/train/green/02e2b573125027d6.jpg 310,516,449,1023,3 507,53,874,941,3
+/content/dataset/OID/Dataset/train/green/8268b70d290daa8e.jpg 491,327,519,377,3 616,168,657,249,3
+/content/dataset/OID/Dataset/train/green/06b48a4819a57d05.jpg 243,0,405,324,3 327,672,455,767,3 562,734,650,767,3
+/content/dataset/OID/Dataset/train/green/a30c3630e0a73a6a.jpg 261,251,301,342,3 313,275,348,342,3 358,252,391,341,3 560,380,575,417,3 586,372,605,423,3 969,272,1014,374,3
+/content/dataset/OID/Dataset/train/green/53c90a4f084de34f.jpg 133,163,337,552,3
+/content/dataset/OID/Dataset/train/green/84131a15ad833b6a.jpg 271,560,297,631,3 491,706,517,762,3 520,773,549,797,3
+/content/dataset/OID/Dataset/train/green/3563484ce1d6c0f8.jpg 149,518,199,597,3 156,378,277,682,3 181,335,316,635,3
+/content/dataset/OID/Dataset/train/green/0b16bea6502617e4.jpg 211,271,517,891,3
+/content/dataset/OID/Dataset/train/green/9548acaeca2f5124.jpg 205,0,258,105,3 270,115,333,172,3
+/content/dataset/OID/Dataset/train/green/5b82b7b7d8495f82.jpg 42,81,161,180,3
+/content/dataset/OID/Dataset/train/green/c6069936cb77152d.jpg 278,252,522,791,3
+/content/dataset/OID/Dataset/train/green/274a3a63a24638c7.jpg 298,546,309,571,3 309,174,389,386,3 412,300,490,380,3
+/content/dataset/OID/Dataset/train/green/b69c2641a9c757ad.jpg 345,688,359,716,3 437,698,456,736,3 630,788,643,814,3 630,824,643,839,3
+/content/dataset/OID/Dataset/train/green/65ab6412fda1ba30.jpg 124,354,150,378,3 156,291,172,337,3 519,225,545,282,3 888,333,902,361,3 890,386,910,403,3
+/content/dataset/OID/Dataset/train/green/a467a9209e8ea07d.jpg 158,452,166,477,3 168,452,178,480,3 279,486,286,504,3 321,293,337,344,3 592,458,598,475,3 689,436,709,484,3 725,489,736,509,3
+/content/dataset/OID/Dataset/train/green/ffbe5b3d9d16d14f.jpg 396,75,815,517,3
+/content/dataset/OID/Dataset/train/green/06a8d9f1a1709a2d.jpg 113,332,157,422,3 438,388,453,419,3 497,401,510,430,3 588,476,599,500,3 906,463,926,497,3
+/content/dataset/OID/Dataset/train/green/0100533625296ddb.jpg 438,0,535,202,3 499,45,575,180,3 598,0,686,194,3
+/content/dataset/OID/Dataset/train/green/41637573c70c39df.jpg 291,339,314,406,3 354,384,374,412,3 374,372,389,408,3 639,218,679,277,3 659,412,666,430,3 755,405,764,424,3 818,401,825,421,3
+/content/dataset/OID/Dataset/train/green/67e24ebe738c6b6c.jpg 28,119,48,173,3 319,269,329,281,3 332,240,341,259,3 437,278,440,282,3 440,267,444,272,3 501,190,514,216,3 621,272,631,282,3 779,225,790,248,3 835,97,855,158,3 922,71,953,130,3
+/content/dataset/OID/Dataset/train/green/899f28deea5f8b5d.jpg 110,273,177,417,3 453,289,515,414,3 798,288,865,414,3
+/content/dataset/OID/Dataset/train/green/fee08d1f85eb3544.jpg 520,341,540,385,3 787,396,812,444,3
+/content/dataset/OID/Dataset/train/green/0da6facf068fed75.jpg 33,391,50,420,3 49,375,64,415,3 220,370,246,420,3 486,290,512,347,3 752,412,766,437,3 929,392,946,429,3 957,412,967,440,3 962,389,978,416,3
+/content/dataset/OID/Dataset/train/green/495ba6845338e7dc.jpg 333,384,355,430,3 530,382,547,431,3 630,580,634,586,3 719,449,734,534,3 750,499,769,535,3 848,80,924,193,3
+/content/dataset/OID/Dataset/train/green/0152d49504d45701.jpg 378,411,413,508,3 801,701,858,821,3 910,823,931,875,3
+/content/dataset/OID/Dataset/train/green/7b411937ff0bd582.jpg 3,265,227,584,3
+/content/dataset/OID/Dataset/train/green/2ac74379b16c6f5a.jpg 289,185,317,250,3 492,49,520,106,3 515,28,553,105,3 773,174,817,259,3
+/content/dataset/OID/Dataset/train/green/be8fff5cee021d09.jpg 395,280,602,769,3 558,310,733,920,3
+/content/dataset/OID/Dataset/train/green/1a9aa557a956e248.jpg 544,333,643,682,3 679,33,925,632,3
+/content/dataset/OID/Dataset/train/green/8bfe3db50646d9f6.jpg 150,284,178,364,3 151,370,192,427,3 808,5,855,120,3 866,19,910,124,3 917,168,953,211,3 961,133,995,220,3
+/content/dataset/OID/Dataset/train/green/655db52e555e3018.jpg 289,361,317,377,3 331,355,349,400,3 386,381,403,411,3 469,391,495,399,3 486,301,533,317,3 581,365,611,378,3 677,227,747,252,3
+/content/dataset/OID/Dataset/train/green/9d7ba68734de6036.jpg 94,162,146,277,3 435,184,482,291,3 507,499,540,523,3 510,451,542,497,3 540,451,581,497,3 545,491,590,536,3 590,490,633,533,3
+/content/dataset/OID/Dataset/train/green/e83e50dc06edec31.jpg 620,311,647,378,3
+/content/dataset/OID/Dataset/train/green/8f599859f3ad2ea1.jpg 435,364,456,386,3 464,301,506,359,3 913,337,934,389,3
+/content/dataset/OID/Dataset/train/green/5024d8b3ae46292d.jpg 329,295,494,484,3 398,0,511,245,3 419,225,546,465,3
+/content/dataset/OID/Dataset/train/green/25672899db09a4b7.jpg 373,83,495,426,3 617,100,776,404,3
+/content/dataset/OID/Dataset/train/green/9fb5108e1a65d5c0.jpg 43,0,173,171,3 247,217,291,238,3 282,50,360,200,3 357,0,409,58,3 359,217,402,238,3 401,46,442,115,3
+/content/dataset/OID/Dataset/train/green/750a39daae4756b3.jpg 218,394,303,517,3 484,213,504,238,3 486,238,504,252,3
+/content/dataset/OID/Dataset/train/green/266c268d0711b8df.jpg 382,232,471,408,3
+/content/dataset/OID/Dataset/train/green/a40a853e164e3269.jpg 250,340,264,370,3 338,404,347,420,3 488,403,502,420,3 527,346,542,372,3 830,318,848,348,3 856,322,860,334,3 942,379,958,395,3 1007,234,1023,279,3
+/content/dataset/OID/Dataset/train/green/2e88688c8140970c.jpg 254,351,274,380,3 301,341,327,377,3 404,408,414,413,3 488,235,548,266,3 497,405,506,408,3
+/content/dataset/OID/Dataset/train/green/27fa84f49f848b00.jpg 210,105,599,977,3
+/content/dataset/OID/Dataset/train/green/0e68d7d4db0b3460.jpg 111,137,188,368,3 361,41,446,297,3
+/content/dataset/OID/Dataset/train/green/38e8a885bf9f916c.jpg 122,682,138,739,3 209,768,212,773,3 216,778,219,784,3 239,769,244,777,3 259,746,267,758,3 312,746,320,764,3 545,598,562,648,3
+/content/dataset/OID/Dataset/train/green/6b563c1065a69e80.jpg 122,347,164,365,3 161,149,250,179,3 176,358,216,371,3 391,136,513,171,3 687,116,816,151,3 733,368,785,384,3 834,368,888,381,3
+/content/dataset/OID/Dataset/train/green/8332ed763027cc71.jpg 196,382,217,430,3 222,378,246,434,3 553,428,566,449,3 619,417,635,439,3 636,519,643,524,3 658,182,699,272,3 671,501,680,515,3 774,522,778,524,3 776,518,777,524,3 819,498,824,509,3 874,442,885,460,3 922,361,954,439,3 924,475,961,508,3 967,475,979,503,3 984,488,991,507,3 988,511,997,520,3
+/content/dataset/OID/Dataset/train/green/28bfdc1355fc63a0.jpg 410,18,522,155,3 689,504,695,522,3 727,482,749,504,3
+/content/dataset/OID/Dataset/train/green/7eedde2bf90d08d1.jpg 141,65,277,174,3
